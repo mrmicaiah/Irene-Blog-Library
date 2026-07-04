@@ -165,7 +165,7 @@ When user says "export," "publish," "schedule," "post," or "done":
 Ready to start a new session anytime!
 ```
 
-5. **Generate Updated Merged Master Story Log** for project files. This must be a SINGLE MERGED FULL-HISTORY master (every story from #1 to present in one file), NOT a session-only snapshot. Steps:
+5. **Generate Updated Merged Master Story Log.** This must be a SINGLE MERGED FULL-HISTORY master (every story from #1 to present in one file), NOT a session-only snapshot. Steps:
    - Read the current master (`hmStoryLog.md`) in full first.
    - Append the new session's stories into the appropriate phase table, with a slot column and coffee column on new entries.
    - Advance EVERY tracker to current state: Character Appearance, Theme, Type, Location, and the Rotation Rules quick reference (forbidden/available for the next story #).
