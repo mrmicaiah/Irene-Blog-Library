@@ -1,4 +1,4 @@
-# THE HOT MESS — STORY LOG (UPDATED June 18, 2026 — POST-EXPORT #116–119)
+# THE HOT MESS — STORY LOG (UPDATED July 4, 2026 — POST-EXPORT #120)
 
 ## PURPOSE
 
@@ -8,7 +8,10 @@ Comprehensive tracking of all Hot Mess stories for rotation rules and continuity
 
 **EXPORT INSTRUCTION (standing policy):** Every export must produce a single **merged full-history master** story log (this file), not a session-only snapshot. Merge new entries into the existing master, advance every tracker (character / theme / type / location / rotation), update the "latest export" note, carry forward all outstanding items and continuity corrections, then write the result back to `hmStoryLog.md` in place, overwriting its contents. Do NOT create a new dated file.
 
-**LATEST EXPORT (June 18, 2026):** Stories #116 (Dad / Letter / Gratitude), #117 (Jennifer / Day / Wisdom), #118 (Noah / Incident / Belonging), #119 (Grace / Moment / Rest). #116 published immediately + emailed (Jun 18). #117 scheduled Sun Jun 21, #118 scheduled Tue Jun 23, #119 scheduled Fri Jun 26 — all 8:00 AM CDT, email on publish.
+**LATEST EXPORT (July 4, 2026):** Story #120 (Caleb [new customer] / Visitor / Purpose). Scheduled Tue July 7, 2026, 8:00 AM CDT (13:00:00Z), email on publish. Single-story session.
+- #120 ID `mr6rzu8icb8tvnaz0` (scheduled Jul 7)
+
+**PRIOR EXPORT (June 18, 2026):** Stories #116 (Dad / Letter / Gratitude), #117 (Jennifer / Day / Wisdom), #118 (Noah / Incident / Belonging), #119 (Grace / Moment / Rest). #116 published immediately + emailed (Jun 18). #117 scheduled Sun Jun 21, #118 scheduled Tue Jun 23, #119 scheduled Fri Jun 26 — all 8:00 AM CDT, email on publish.
 - #116 ID `mqjufti75x4cwgkx3` (published)
 - #117 ID `mqjugp6heaamsmusy` (scheduled Jun 21)
 - #118 ID `mqjujagpsgiroyqc3` (scheduled Jun 23)
@@ -162,91 +165,96 @@ These 43 story ideas were generated during initial launch. Status indicates whet
 | 113 | 2026-06-02 (Tue) | In Which I Stand in a Creek I Was Not Supposed to Be In | The Flashback | Rena Alone + Grandmother | Courage | pour-over (Margaret's scoop) | ~1,800 | Published |
 | 115 | 2026-06-05 (Fri) | In Which Earl Refuses to Price a Spoon and Accidentally Appraises Me | The Portrait | Earl | Identity | — | ~1,330 | Published |
 | 116 | 2026-06-18 (Thu, immediate) | In Which Thank You Turns Out to Be the Longest Word I Know | The Letter | Dad (David) | Gratitude | Guatemalan Huehuetenango | ~1,060 | Published + emailed |
-| 117 | 2026-06-21 (Sun) | In Which I Drink the Worst Coffee of My Life on Purpose | The Day | Jennifer | Wisdom | Kenyan pour-over / Keurig pod | ~1,380 | Scheduled + email |
-| 118 | 2026-06-23 (Tue) | In Which I Find Out the Difference Between Leaving Someone Alone and Leaving Them | The Incident | Noah | Belonging | Ethiopian Yirgacheffe + Sumatra | ~1,300 | Scheduled + email |
-| 119 | 2026-06-26 (Fri) | In Which I Make a Coffee for Someone Who Isn't Coming | The Moment | Grace | Rest | Small black + iced vanilla latte (4-pump) | ~910 | Scheduled + email |
+| 117 | 2026-06-21 (Sun) | In Which I Drink the Worst Coffee of My Life on Purpose | The Day | Jennifer | Wisdom | Kenyan pour-over / Keurig pod | ~1,380 | Published |
+| 118 | 2026-06-23 (Tue) | In Which I Find Out the Difference Between Leaving Someone Alone and Leaving Them | The Incident | Noah | Belonging | Ethiopian Yirgacheffe + Sumatra | ~1,300 | Published |
+| 119 | 2026-06-26 (Fri) | In Which I Make a Coffee for Someone Who Isn't Coming | The Moment | Grace | Rest | Small black + iced vanilla latte (4-pump) | ~910 | Published |
+| 120 | 2026-07-07 (Tue) | In Which Someone Asks for the Fastest Thing and I Give Him the Slowest One on Purpose | The Visitor | Caleb (New) | Purpose | Costa Rican light-roast pour-over (vs. fast drip) | ~1,209 | Scheduled + email |
+
+> Note on #120: single-story session (exported July 4). It's an anchor type (Visitor); the log's earlier target of Tue Jun 30 had passed by export time (today is Sat Jul 4), as had the Fri Jul 3 slot, so it went to the next open anchor slot, **Tue Jul 7**. Fingerprint: `Tue-Visitor-Caleb-HotMess-CustomerEncounter-WarmHopeful-Purpose`. Repo copy: `blogs/hotmess/posts/120-the-fastest-thing.md`.
 
 > Note on #116 slot: original target was the Sun Jun 7 flex slot, but that date had passed by export time (Jun 18). Published immediately instead. #117–119 scheduled to the next Sun/Tue/Fri slots. This put a flex type (Letter #116) and a flex type (Moment #119) on non-Sunday dates — accepted as a one-time catch-up deviation from strict Path-B slot discipline.
 
 ---
 
-## CHARACTER APPEARANCE TRACKER (post-#119)
+## CHARACTER APPEARANCE TRACKER (post-#120)
 
 | Character | Last Appeared | Story # | Stories Since |
 |-----------|---------------|---------|---------------|
-| Grace | 2026-06-26 | #119 | 0 (CURRENT) |
-| Noah | 2026-06-23 | #118 | 1 |
-| Jennifer | 2026-06-21 | #117 | 2 |
-| Dad (David) | 2026-06-18 | #116 | 3 |
-| Earl | 2026-06-05 | #115 | 4 |
-| Grandmother (flashback) | 2026-06-02 | #113 | 6 |
-| Walter | 2026-05-31 | #114 | 5 |
-| Brittany (New) | 2026-05-29 | #112 | 7 |
-| Lou | 2026-04-23 | #111 | 8 |
-| Jamie | 2026-04-22 | #110 | 9 (ensemble) |
-| Todd | 2026-04-22 | #110 | 9 (ensemble) |
-| Linda (Mom) | 2026-04-19 | #108 | 11 |
-| Glenn (New) | 2026-04-16 | #105 | 14 |
-| Milly | 2026-04-10 | #98 | 21 |
-| Patricia | 2026-05-29 | #112 (cameo) | 7 (cameo) |
-| Mabel | 2026-06-02 | #113 (supporting) | 6 (supporting) |
+| Caleb (New) | 2026-07-07 | #120 | 0 (CURRENT) |
+| Grace | 2026-06-26 | #119 | 1 |
+| Noah | 2026-06-23 | #118 | 2 |
+| Jennifer | 2026-06-21 | #117 | 3 |
+| Dad (David) | 2026-06-18 | #116 | 4 |
+| Earl | 2026-06-05 | #115 | 5 (prop-only cameo in #120: the propped-door brick) |
+| Grandmother (flashback) | 2026-06-02 | #113 | 7 |
+| Walter | 2026-05-31 | #114 | 6 |
+| Brittany (New) | 2026-05-29 | #112 | 8 |
+| Lou | 2026-04-23 | #111 | 9 |
+| Jamie | 2026-04-22 | #110 | 10 (ensemble) |
+| Todd | 2026-04-22 | #110 | 10 (ensemble) — OVERDUE (1-per-8 minimum breached) |
+| Linda (Mom) | 2026-04-19 | #108 | 12 |
+| Glenn (New) | 2026-04-16 | #105 | 15 |
+| Milly | 2026-04-10 | #98 | 22 |
+| Patricia | 2026-05-29 | #112 (cameo) | 8 (cameo) |
+| Mabel | 2026-06-02 | #113 (supporting) | 7 (supporting) |
 
 ---
 
-## THEME TRACKER (post-#119)
+## THEME TRACKER (post-#120)
 
 | Theme | Last Used | Story # | Stories Since |
 |-------|-----------|---------|---------------|
-| Rest | 2026-06-26 | #119 | 0 (CURRENT) |
-| Belonging | 2026-06-23 | #118 | 1 |
-| Wisdom | 2026-06-21 | #117 | 2 |
-| Gratitude | 2026-06-18 | #116 | 3 |
-| Identity | 2026-06-05 | #115 | 4 |
-| Courage | 2026-06-02 | #113 | 6 |
-| Hope | 2026-05-31 | #114 | 5 |
-| Boundaries | 2026-05-29 | #112 | 7 |
-| Generosity | 2026-04-23 | #111 | 8 |
-| Humility | 2026-04-22 | #110 | 9 |
-| Forgiveness | 2026-04-21 | #109 | 10 |
-| Love | 2026-04-19 | #108 | 11 |
-| Faithfulness | 2026-04-18 | #107 | 12 |
-| Patience | 2026-04-17 | #106 | 13 |
-| Joy | 2026-04-16 | #105 | 14 |
-| Trust/Surrender | 2026-04-15 | #104 | 15 |
-| Community | 2026-04-11 | #100 | 19 |
-| Purpose | 2026-04-10 | #98 | 21 |
-| Contentment | 2026-04-06 | #99 | 20 |
+| Purpose | 2026-07-07 | #120 | 0 (CURRENT) |
+| Rest | 2026-06-26 | #119 | 1 |
+| Belonging | 2026-06-23 | #118 | 2 |
+| Wisdom | 2026-06-21 | #117 | 3 |
+| Gratitude | 2026-06-18 | #116 | 4 |
+| Identity | 2026-06-05 | #115 | 5 |
+| Courage | 2026-06-02 | #113 | 7 |
+| Hope | 2026-05-31 | #114 | 6 |
+| Boundaries | 2026-05-29 | #112 | 8 |
+| Generosity | 2026-04-23 | #111 | 9 |
+| Humility | 2026-04-22 | #110 | 10 |
+| Forgiveness | 2026-04-21 | #109 | 11 |
+| Love | 2026-04-19 | #108 | 12 |
+| Faithfulness | 2026-04-18 | #107 | 13 |
+| Patience | 2026-04-17 | #106 | 14 |
+| Joy | 2026-04-16 | #105 | 15 |
+| Trust/Surrender | 2026-04-15 | #104 | 16 |
+| Community | 2026-04-11 | #100 | 20 |
+| Contentment | 2026-04-06 | #99 | 21 |
 | Grace | Foundation | — | Available (use sparingly) |
 
 ---
 
-## TYPE TRACKER (post-#119)
+## TYPE TRACKER (post-#120)
 
 | Type | Last Used | Story # | Stories Since |
 |------|-----------|---------|---------------|
-| The Moment | 2026-06-26 | #119 | 0 (CURRENT) |
-| The Incident | 2026-06-23 | #118 | 1 |
-| The Day | 2026-06-21 | #117 | 2 |
-| The Letter | 2026-06-18 | #116 | 3 |
-| The Portrait | 2026-06-05 | #115 | 4 |
-| The Flashback | 2026-06-02 | #113 | 6 |
-| The Quiet | 2026-05-31 | #114 | 5 |
-| The Visitor | 2026-05-29 | #112 | 7 |
-| The Milestone | 2026-04-11 | #100 | 19 |
+| The Visitor | 2026-07-07 | #120 | 0 (CURRENT) |
+| The Moment | 2026-06-26 | #119 | 1 |
+| The Incident | 2026-06-23 | #118 | 2 |
+| The Day | 2026-06-21 | #117 | 3 |
+| The Letter | 2026-06-18 | #116 | 4 |
+| The Portrait | 2026-06-05 | #115 | 5 |
+| The Flashback | 2026-06-02 | #113 | 7 |
+| The Quiet | 2026-05-31 | #114 | 6 |
+| The Milestone | 2026-04-11 | #100 | 20 |
 
 ---
 
-## LOCATION TRACKER (post-#119)
+## LOCATION TRACKER (post-#120)
 
 | Location | Last Used | Story # | Notes |
 |----------|-----------|---------|-------|
+| The Hot Mess (counter + corner table) | 2026-07-07 | #120 | Summer Tuesday; to-go cups spill, slow pour at the corner table |
 | The Hot Mess (corner table) | 2026-06-26 | #119 | Grace, Thursday 3 PM, two cups |
 | Noah's apartment / the hallway | 2026-06-23 | #118 | Off the shop's own building; threshold crossed |
 | Jennifer's apartment | 2026-06-21 | #117 | Off-site, ~20 min away — NEW location |
 | The Hot Mess (after close) | 2026-06-18 | #116 | Counter, lights half-down |
 | Whitfield's Antiques | 2026-06-05 | #115 | Off-site (neighbor shop) |
 
-**Note:** #117 used a brand-new off-site location (Jennifer's apartment). Good spread maintained. Non-shop location requirement (1 per 5) well satisfied.
+**Note:** The Hot Mess used #119 and #120 back-to-back (2 in a row; max 4 before must go elsewhere). Non-shop location requirement (1 per 5) still satisfied by Noah's apt #118 / Jennifer's apt #117 / Whitfield's #115 — but a non-shop setting is getting due within the next 2–3 stories.
 
 ---
 
@@ -257,61 +265,61 @@ These 43 story ideas were generated during initial launch. Status indicates whet
 **SLOT RULES:**
 - Anchor types (Day, Incident, Visitor, Portrait, Milestone, Flashback) → Tue/Fri only
 - Flex types (Quiet, Letter, Moment) → Sun only
-- **Last scheduled:** #119 The Moment, Fri June 26, 2026
-- **Next slot:** #120 (anchor) → Tuesday June 30, 2026, 8:00 AM CDT — anchor slot (Day, Incident, Visitor, Portrait, Milestone, Flashback)
+- **Last scheduled:** #120 The Visitor, Tue July 7, 2026
+- **Next slot:** #121 (anchor) → Friday July 10, 2026, 8:00 AM CDT — anchor slot (Day, Incident, Visitor, Portrait, Milestone, Flashback). (Sun Jul 12 is the next flex slot after that.)
 
 **THE CORE RULE — COFFEE SHOP FIRST:**
 At least 4 out of every 8 stories must be customer-focused or town/neighborhood-focused.
 
-**Last 8 check (#112–119 by publish chronology = Brittany, Walter, Grandmother, Earl, Dad, Jennifer, Noah, Grace):**
-Customer/regular/town focus = Brittany, Walter, Earl, Noah, Grace = 5/8. ✓ Healthy. (Family/friend-leaning: Grandmother, Dad, Jennifer = 3/8.)
+**Last 8 check (#113–120 = Grandmother, Walter, Earl, Dad, Jennifer, Noah, Grace, Caleb):**
+Customer/regular/town focus = Walter, Earl, Noah, Grace, Caleb = 5/8. ✓ Healthy. (Family/friend-leaning: Grandmother, Dad, Jennifer = 3/8.)
 
 **ROTATION WINDOWS (calibrated for ~12 stories/month):**
 - Character no-repeat window: 2 stories
 - Theme no-repeat window: 3 stories
 - Family character combined cap (Dad, Linda, Grandmother): 2 per 10 stories
 
-**FORBIDDEN FOR #120 (Tuesday ANCHOR — Day/Incident/Visitor/Portrait/Milestone/Flashback):**
-- **Characters (no-repeat 2):** Grace (#119), Noah (#118) blocked; Jennifer (#117) at edge.
-- **Family cap:** Grandmother (#113) + Dad (#116) = 2 in last 10. Grandmother rolls OUT after #120 → **Linda/Mom eligible and overdue.** (Until #120 generates, family is technically still at cap; once #120 is non-family or once #114+ pushes #113 past the 10-window, Linda opens.)
-- **Themes (no-repeat 3):** Rest (#119), Belonging (#118), Wisdom (#117) blocked.
-- **Types:** Fresh anchor types = **The Visitor or The Milestone** (Day #117, Incident #118, Portrait #115, Flashback #113 recently used; Milestone is most rested at #100 = 19 ago).
+**FORBIDDEN FOR #121 (Friday ANCHOR — Day/Incident/Visitor/Portrait/Milestone/Flashback):**
+- **Characters (no-repeat 2):** Caleb (#120), Grace (#119) blocked; Noah (#118) at edge.
+- **Family cap:** Grandmother (#113) + Dad (#116) = 2 in the trailing 10 (#111–120). Still AT cap. Grandmother ages out of the trailing-10 window at ~#124, at which point **Linda/Mom (last #108) opens and is overdue.**
+- **Themes (no-repeat 3):** Purpose (#120), Rest (#119), Belonging (#118) blocked.
+- **Types (no-repeat 2):** The Visitor (#120) and The Moment (#119) blocked. Fresh anchor types = **The Incident, The Day, The Portrait, The Milestone, The Flashback** (all July month-caps reset). Milestone is most rested at #100 = 20 ago.
 
 **FREQUENCY LIMITS:**
 - Grace theme: Max 1 per 6 stories
-- Todd Question conflict: Max 1 per 6 stories (last #104; AVAILABLE and due — banked this session, not yet used)
-- The Incident: Max 2 per month — **June: 1 used (#118).** 1 remaining.
-- The Letter: Max 1 per month — **June: 1 used (#116). CLOSED for June.**
-- The Flashback: Max 1 per month — **June: 1 used (#113). CLOSED for June.**
-- The Milestone: rested since #100 — strong candidate when a calendar/life hook appears.
+- Todd Question conflict: Max 1 per 6 stories (last #104 = 16 ago; AVAILABLE and banked — still not spent)
+- The Incident: Max 2 per month — **July: 0 used.** 2 available.
+- The Letter: Max 1 per month (flex) — **July: 0 used.**
+- The Flashback: Max 1 per month — **July: 0 used.**
+- The Milestone: rested since #100 (20 ago) — strong candidate when a calendar/life hook appears.
 - Melancholy tone: Max 1 per 6 stories
-- Mabel focus: Max 1 per 6 stories (last supporting #113)
+- Mabel focus: Max 1 per 6 stories (last supporting #113 = 7 ago)
 - **Family combined (Dad, Linda, Grandmother): Max 2 per 10 stories** — currently AT cap (#113, #116).
 
 **MINIMUM FREQUENCY:**
 - Customers & Town: At least 4 per 8 ✓ (5/8)
-- New Customer: At least 1 per 6 — **last was Brittany #112 = 7 ago. OVERDUE. Due immediately (a Visitor at #120 would satisfy this).**
-- Todd and Jennifer: At least 1 per 8 — Jennifer #117 = 2 ago ✓; Todd #110 = 9 ago, **overdue.**
-- David and Linda: At least 1 per 10 ✓ (Dad #116)
-- Non-shop location: At least 1 per 5 ✓ (Jennifer's apt #117, Noah's hall #118)
+- New Customer: At least 1 per 6 — **Caleb #120 = 0 ago. SATISFIED.** Next new customer due by ~#126.
+- Todd and Jennifer: At least 1 per 8 — Jennifer #117 = 3 ago ✓; **Todd #110 = 10 ago, MINIMUM BREACHED — prioritize for #121.**
+- David and Linda: At least 1 per 10 ✓ (Dad #116 = 4 ago)
+- Non-shop location: At least 1 per 5 ✓ (Noah's hall #118, Jennifer's apt #117) — but the shop ran #119+#120 back-to-back, so a non-shop setting is getting due.
 
 ---
 
 ## NEXT STORY RECOMMENDATION
 
-### #120 — Tuesday, June 30, 2026 (ANCHOR slot)
+### #121 — Friday, July 10, 2026 (ANCHOR slot)
 
-**Required slot type:** Anchor (Day, Incident, Visitor, Portrait, Milestone, Flashback)
+**Required slot type:** Anchor (Day, Incident, Visitor, Portrait, Milestone, Flashback). Types Visitor & Moment blocked (no-repeat 2).
 
-**Strong candidate config:** **The Visitor + New Customer + (Joy / Purpose / Faithfulness)** — satisfies the overdue New-Customer minimum (7 since Brittany), uses a fresh type, rests the constrained regular roster, and sidesteps the family cap entirely. Alternatively **The Milestone** if a June/summer life-hook presents (very rested at 19 ago).
+**Strong candidate config:** **Todd** — now 10 stories cold (#110) and past the 1-per-8 minimum, so he should lead #121. A **Day** or **Incident** (both month-cap fresh for July) with Todd as the engine; the banked **Todd Question** slow-burn beat (last #104 = 16 ago) is available if you want to spend it — handle with care per the parked-draft note. Theme options that are open: **Trust/Surrender** (16 ago), **Faithfulness** (13 ago), **Community** (20 ago), **Contentment** (21 ago). A non-shop setting (his repair shop one block over) also relieves the shop's #119+#120 back-to-back run.
 
-**Also worth weighing:** Todd is 9 stories cold and overdue on the 1-per-8 minimum; the banked Todd Question (Max 1/6, last #104) is available. A Visitor or Day featuring Todd present-but-not-engine could satisfy the minimum without spending the slow-burn beat. Handle slow burn with care — see parked draft note below.
+**Also worth weighing:** **The Milestone** is very rested (20 ago) if a mid-July calendar/life hook presents. And **Linda/Mom** is overdue but still family-capped until ~#124 — pencil her in for the slot after next.
 
-**Blocked:** Grace, Noah (no-repeat 2); Rest, Belonging, Wisdom (no-repeat 3); Letter & Flashback (June caps); family at cap.
+**Blocked:** Caleb, Grace (no-repeat 2); Purpose, Rest, Belonging (no-repeat 3); The Visitor, The Moment (type no-repeat 2); family combined at cap (#113 + #116).
 
 ---
 
-## CANON BANKED THIS SESSION (#116–119) — for next continuity-file update
+## CANON BANKED THIS SESSION (#116–120) — for next continuity-file update
 
 **#116 — Dad (David) / Gratitude:**
 - Guatemalan Huehuetenango established as the shop's "most regular" roast — tied to Dad's 5 a.m. percolator coffee.
@@ -333,6 +341,12 @@ Customer/regular/town focus = Brittany, Walter, Earl, Noah, Grace = 5/8. ✓ Hea
 - **Lily's drink = iced vanilla latte, FOURTH PUMP of vanilla** (now canon). Lily was Grace's daughter (named Lily per hmNames; died 4 years ago, car accident; Thursdays were their coffee day).
 - Grace's NEW ritual: ordering Lily's drink and setting the place across the table. Stayed 40 minutes — extends the Jan-23 "stayed past 3:30" Hope milestone (grief making room, not raw).
 - Weak-coffee/grandmother-memorial ritual touched only glancingly in footnote, kept SEPARATE from Grace's grief — do not conflate the two rituals.
+
+**#120 — Caleb (new customer) / Purpose:**
+- **Caleb** = new one-time customer, ~22, passing through. Car overheated on the highway; got off at Rena's exit en route to an 11:00 "sensible" regional-sales job interview two towns over (his dad's connection). Left still intending to take the job "but ask different questions." Ending deliberately OPEN — soft return hook only ("come back and tell me which questions"); do NOT resolve his job/future unless a later story chooses to bring him back.
+- **Costa Rican light-roast pour-over** established as Rena's "slow on purpose" gesture — the deliberate slow cup she makes instead of the fast drip. Contrast motif: fast drip vs. slow pour-over.
+- **The propped-door brick from Earl** = NEW running prop. Earl insists it's a "nineteenth-century boot scraper"; it is a brick. Ongoing agreed-to-disagree gag between them.
+- Continuity kept: the surviving succulent (the one she hasn't killed — consistent with the succulent-killing of #78); Rena "almost thirty" when she left / drove away from a chosen-for-her life (consistent with character bible). Todd NOT used — slow burn untouched.
 
 ---
 

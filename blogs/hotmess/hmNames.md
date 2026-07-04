@@ -13,7 +13,7 @@ After using a name, mark it with ✗ and note the story number.
 ### Biblical/Traditional (IFB-Adjacent)
 - ✗ Eli (used #55 — adoption dad)
 - ✗ Silas (used #64 — panicked groom)
-- Caleb
+- ✗ Caleb (used #120 — passing-through stranger, overheated car, sensible-job interview)
 - Josiah
 - Micah
 - Ezra
@@ -179,6 +179,7 @@ After using a name, mark it with ✗ and note the story number.
 |------|---------|----------------------|
 | Eli | #55 | Adoption dad, dinosaur ring, second-grader getting a dad |
 | Silas | #64 | Panicked groom, grandmother's ring in boot tread |
+| Caleb | #120 | Passing-through stranger, overheated car, "sensible" job interview two towns over |
 
 ---
 
