@@ -338,7 +338,7 @@ Customer/regular/town focus = Brittany, Walter, Earl, Noah, Grace = 5/8. ✓ Hea
 
 ## CONTINUITY CORRECTIONS (carried forward)
 
-**STILL OUTSTANDING — funeral wording fix.** `hmContinuity-UPDATED.md` lines 25 & 236 say Rena "was not allowed" at her grandmother's funeral. **This is wrong.** Corrected canon: Rena *did* attend the funeral at age 14 (IFB practice: children attend for understanding/closure). The wound is **unspeakability, not exclusion** — she couldn't acknowledge what Grandma meant to her in front of the IFB community who'd have read it as rebellion. Did not surface in #116–119; correction still pending in the project file.
+**CANON GUARD — grandmother's funeral (SETTLED, do not reopen).** Rena ATTENDED her grandmother's funeral at age 14 (IFB practice: children attend for understanding/closure). She was NOT banned, excluded, or "not allowed" — never write her as shut out of it. The wound is **unspeakability, not exclusion**: she couldn't acknowledge what Grandma meant to her in front of the IFB community who'd have read it as rebellion. Canon is correct in hmContinuity.md; this guard exists to prevent the exclusion framing from creeping back.
 
 **Prior corrections preserved (from #112–115 session and earlier):**
 - Grandma's Bible is a multi-margin-note Bible (Romans 8:1 "Rena LeeAnn"; Joshua 1:9 "for S."; Rena's "Received"; Lamentations 3 / Psalm 23 unmarked-specifics). Treat as a populated object.
