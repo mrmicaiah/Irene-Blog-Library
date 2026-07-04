@@ -86,7 +86,7 @@ Track ALL posts created in this session:
 
 **What's next?**
 - Say **"another"** to generate another post
-- Say **"export"** to compile all posts into a document
+- Say **"export"** to publish all posts to irenegdaniels.com (see igdExport.md)
 ```
 
 ---
