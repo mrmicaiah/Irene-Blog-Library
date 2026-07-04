@@ -15,7 +15,7 @@ Each story follows Rena LeeAnn — a young woman who escaped an IFB upbringing a
 - "edit" → Run edit review
 - "titles" → Generate title options
 - "another" / "next" → Generate another story
-- "export" / "compile" → Compile ALL session stories (see hmMaster.md for the export/publish process)
+- "export" / "compile" → Export ALL session stories (see hmMaster.md for the export/publish process)
 - "status" / "log" → Show session log
 - "check" → Run pre-generation check
 

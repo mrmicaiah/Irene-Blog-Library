@@ -65,7 +65,7 @@ SEO DISCOVER → IDEA → INTERVIEW → DRAFT → EDIT → TITLES → [ANOTHER o
 
 ### Phase 7: LOOP OR EXPORT
 - Update session log
-- Ask: "What's next? Say **another** to generate another post, or **export** to compile all posts."
+- Ask: "What's next? Say **another** to generate another post, or **export** to publish all posts (see igdExport.md)."
 - NEVER auto-export
 
 ---
