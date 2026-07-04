@@ -103,7 +103,7 @@ Track ALL posts created in this session:
 | "edit" | Run edit review |
 | "titles" | Generate title options |
 | "another" / "next post" | Start new post (begins with SEO discovery) |
-| "export" / "compile" | Compile ALL session posts to document + update idea log |
+| "export" / "compile" | Publish all session posts to irenegdaniels.com (see igdExport.md) |
 | "status" / "log" | Show session log |
 | "skip seo" | Skip SEO discovery, go straight to idea (for Spirit-led posts) |
 
