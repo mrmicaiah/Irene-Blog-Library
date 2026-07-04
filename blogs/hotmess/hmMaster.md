@@ -166,12 +166,12 @@ Ready to start a new session anytime!
 ```
 
 5. **Generate Updated Merged Master Story Log** for project files. This must be a SINGLE MERGED FULL-HISTORY master (every story from #1 to present in one file), NOT a session-only snapshot. Steps:
-   - Read the current master (`hmStoryLog-UPDATED-[latest].md`) in full first.
+   - Read the current master (`hmStoryLog.md`) in full first.
    - Append the new session's stories into the appropriate phase table, with a slot column and coffee column on new entries.
    - Advance EVERY tracker to current state: Character Appearance, Theme, Type, Location, and the Rotation Rules quick reference (forbidden/available for the next story #).
    - Update the "LATEST EXPORT" note with dates, statuses, and post IDs.
    - Carry forward all outstanding items, continuity corrections, infrastructure notes, and parked/do-not-publish entries.
-   - Write to a new file named `hmStoryLog-UPDATED-[date].md`. The merged master supersedes the prior dated master.
+   - Write the updated master back to `hmStoryLog.md`, replacing its contents in place. Do NOT create a new dated file.
 
 ### Slot-Matching Rules
 
