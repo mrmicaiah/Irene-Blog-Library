@@ -321,6 +321,5 @@ over-feature caution below — Arc 6 is the cleaner Status Report subject right 
 
 ---
 
-*This log REPLACES all previous versions, including `-18`.*
-*Upload to Claude Project before next session.*
+*This log is the complete current history, maintained in place in the repo.*
 *Last updated: June 18, 2026*
