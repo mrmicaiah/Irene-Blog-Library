@@ -6,7 +6,7 @@ Comprehensive tracking of all Hot Mess stories for rotation rules and continuity
 
 **SCHEDULE (Active since April 27, 2026):** Posting cadence is **3x/week**. Tuesday and Friday at 8:00 AM Central = anchor slots (Day, Incident, Visitor, Portrait, Milestone, Flashback). Sunday at 8:00 AM Central = flex slot (Quiet, Letter, Moment). Story type determines which day a story can run.
 
-**EXPORT INSTRUCTION (standing policy):** Every export must produce a single **merged full-history master** story log (this file), not a session-only snapshot. Merge new entries into the existing master, advance every tracker (character / theme / type / location / rotation), update the "latest export" note, carry forward all outstanding items and continuity corrections, then write it to an `.md` file named `hmStoryLog-UPDATED-[date].md`. The merged master supersedes the prior dated master.
+**EXPORT INSTRUCTION (standing policy):** Every export must produce a single **merged full-history master** story log (this file), not a session-only snapshot. Merge new entries into the existing master, advance every tracker (character / theme / type / location / rotation), update the "latest export" note, carry forward all outstanding items and continuity corrections, then write the result back to `hmStoryLog.md` in place, overwriting its contents. Do NOT create a new dated file.
 
 **LATEST EXPORT (June 18, 2026):** Stories #116 (Dad / Letter / Gratitude), #117 (Jennifer / Day / Wisdom), #118 (Noah / Incident / Belonging), #119 (Grace / Moment / Rest). #116 published immediately + emailed (Jun 18). #117 scheduled Sun Jun 21, #118 scheduled Tue Jun 23, #119 scheduled Fri Jun 26 — all 8:00 AM CDT, email on publish.
 - #116 ID `mqjufti75x4cwgkx3` (published)
