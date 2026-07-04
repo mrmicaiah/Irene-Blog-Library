@@ -1,4 +1,4 @@
-# Systems Under Siege - Export Process
+# Clean Enough House - Export Process
 
 ## Overview
 
@@ -6,7 +6,7 @@ The export process happens when the user says "export" or "compile" after creati
 
 **Key Point:** Posts are published individually during the workflow (Step 7 of each post in SUSMaster.md). By the time the user says "export," all session posts are already scheduled in UP Blog with embedded affiliate links.
 
-**Export generates:** An updated idea log for the user to upload to project files.
+**Export generates:** An updated idea log, written directly to `SUSIdeaLog.md` in the repo.
 
 ---
 
@@ -115,7 +115,7 @@ The idea log is NOT a merge — it's a **complete replacement** containing:
 ### File Structure
 
 ```markdown
-# SYSTEMS UNDER SIEGE - MASTER IDEA LOG
+# CLEAN ENOUGH HOUSE - MASTER IDEA LOG
 ## Last Updated: [Current Date]
 
 ---
@@ -167,15 +167,14 @@ The idea log is NOT a merge — it's a **complete replacement** containing:
 ---
 
 *This log REPLACES all previous versions.*
-*Upload to Claude Project before next session.*
 *Last updated: [Current Date]*
 ```
 
 ### Output File
 
-Save as: `SUSIdeaLog_UPDATED.md`
+Save by overwriting the existing `SUSIdeaLog.md` in the repo, in place.
 
-Present the file for download using the `present_files` tool.
+Write the updated content directly to `SUSIdeaLog.md` in the repo, overwriting the previous version.
 
 ---
 
@@ -195,12 +194,11 @@ EXPORT COMPLETE
 | 2 | Lighter | [Title] | [Date] 9am CT | [X] products |
 
 **Files Generated:**
-- SUSIdeaLog_UPDATED.md (upload to project to replace existing log)
+- SUSIdeaLog.md (updated in place in the repo)
 
 **Next Steps:**
-1. Download the updated idea log
-2. Upload to Claude Project (replace existing SUSIdeaLog file)
-3. Start next session when ready
+1. The updated SUSIdeaLog.md is now committed in the repo
+2. Start next session when ready
 
 Total posts now: [Previous total + Session posts]
 ---
@@ -218,7 +216,7 @@ Total posts now: [Previous total + Session posts]
 ### Complete Replacement
 - Idea log is NOT incremental
 - Every export generates a COMPLETE file
-- User uploads this to replace old version
+- The worker overwrites SUSIdeaLog.md directly in the repo
 
 ### Publishing Order
 - Posts scheduled in their proper slot (Anchor → Tuesday, Lighter → Thursday)
@@ -268,8 +266,8 @@ Post 3: Anchor — Method Tutorial
 → Published & scheduled for Tuesday 9am CT (next week)
 
 User says "export":
-1. Generate SUSIdeaLog_UPDATED.md with all 3 new entries
-2. Present idea log file for download
+1. Rewrite SUSIdeaLog.md with all entries including the 3 new ones
+2. Overwrite SUSIdeaLog.md in the repo
 3. Show export summary
 
 By export time, all posts are already live in UP Blog with clickable affiliate links.

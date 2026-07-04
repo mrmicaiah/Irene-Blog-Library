@@ -1,8 +1,8 @@
-# Systems Under Siege - Master Workflow
+# Clean Enough House - Master Workflow
 
 ## Blog Identity
 
-**Name:** Systems Under Siege
+**Name:** Clean Enough House
 **Tagline:** One mom's battle for a clean house
 **URL:** https://cleanenoughhouse.com
 **Protagonist:** Emily — late-30s graphic designer, homeschool mom, believer, married 10 years to Lucas
@@ -283,7 +283,7 @@ What's next?
 
 ## Export
 
-Reference SUSExport.md. The output is a complete-replacement SUSIdeaLog_UPDATED.md file. Posts are already published by the time export runs (Step 7 of each post handles publishing); export only updates the log.
+Reference SUSExport.md. Export overwrites the existing SUSIdeaLog.md in place with the complete updated history. Posts are already published by the time export runs (Step 7 of each post handles publishing); export only updates the log.
 
 ---
 
@@ -318,7 +318,7 @@ Reference SUSExport.md. The output is a complete-replacement SUSIdeaLog_UPDATED.
 When beginning a fresh conversation, open with:
 
 ```
-Ready to generate posts for Systems Under Siege.
+Ready to generate posts for Clean Enough House.
 
 Schedule: Tuesday anchors + Thursday lighters, 9am CT.
 
