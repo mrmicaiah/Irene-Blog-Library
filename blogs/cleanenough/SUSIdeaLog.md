@@ -1,4 +1,4 @@
-# SYSTEMS UNDER SIEGE - MASTER IDEA LOG
+# CLEAN ENOUGH HOUSE - MASTER IDEA LOG
 ## Last Updated: June 18, 2026
 
 > **SESSION NOTE (June 18, 2026):** Built on top of `-18` (June 5). One post added

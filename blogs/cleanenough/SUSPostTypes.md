@@ -1,4 +1,4 @@
-# Systems Under Siege - Post Type Templates
+# Clean Enough House - Post Type Templates
 
 This document defines the formats available in each of the two publishing slots. The slots themselves are described in SUSMaster.md.
 
