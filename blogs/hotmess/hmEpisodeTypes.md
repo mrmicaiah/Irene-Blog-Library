@@ -1,4 +1,4 @@
-# THE HOT MESS â€” EPISODE TYPES
+# THE HOT MESS — EPISODE TYPES
 
 ## OVERVIEW
 
@@ -121,7 +121,7 @@ Equipment failures. Spills. Wrong orders. The coffee chaos that's always threate
 ### Ending Techniques
 - Standing in the wreckage, realizing something
 - Someone's kind response to her disaster
-- The Backman pauseâ€”short, quiet truth after the Lawson chaos
+- The Backman pause—short, quiet truth after the Lawson chaos
 
 ### Example Premise
 Betsy leaks during a rush. She tries to fix it, knocks over a display. Beans everywhere. Fire alarm triggers. In the chaos, strangers start helping. Community forms in the mess. She stands in a puddle, crying and laughing.
@@ -149,7 +149,7 @@ Betsy leaks during a rush. She tries to fix it, knocks over a display. Beans eve
 
 ### Pacing Notes
 - The visitor drives the scene. Rena responds, observes, receives.
-- Dialogue heavier hereâ€”their voice matters.
+- Dialogue heavier here—their voice matters.
 - Clumsiness can be nervous response to the visitor, or barely present.
 
 ### Coffee Integration
@@ -204,7 +204,7 @@ Patricia's at the corner table. Rena remembers: the complaints. The dread. The d
 
 ## TYPE 6: THE LETTER
 
-**What it is:** Direct address. Rena writing or speaking to someoneâ€”a customer, a parent, her past self, God. Intimate, vulnerable, one-sided conversation.
+**What it is:** Direct address. Rena writing or speaking to someone—a customer, a parent, her past self, God. Intimate, vulnerable, one-sided conversation.
 
 **When to use:** When you want pure interiority. When the relationship is too complicated for dialogue. When unsaid things need saying.
 
@@ -261,7 +261,7 @@ Mother's Day. Rena writes Linda a letter she'll never send. Everything she wishe
 ### Pacing Notes
 - Time compression. Montage energy in the middle.
 - Concrete details from specific memories.
-- Clumsiness woven in as continuityâ€”she was clumsy then, she's clumsy now.
+- Clumsiness woven in as continuity—she was clumsy then, she's clumsy now.
 
 ### Coffee Integration
 Maybe she makes herself something special. Maybe she recreates her first cup in the shop. A ritual marking.
@@ -272,7 +272,7 @@ Maybe she makes herself something special. Maybe she recreates her first cup in 
 - Looking out the window. Tomorrow is another day.
 
 ### Example Premise
-One year since she left. She wakes expecting triumph, feels grief instead. Both things trueâ€”gratitude and loss. She doesn't have to choose. She can hold both.
+One year since she left. She wakes expecting triumph, feels grief instead. Both things true—gratitude and loss. She doesn't have to choose. She can hold both.
 
 ---
 
@@ -297,11 +297,11 @@ One year since she left. She wakes expecting triumph, feels grief instead. Both 
 
 ### Pacing Notes
 - Transition clearly between timelines (white space, tense shift, or clear signal).
-- Past can be more sensoryâ€”childhood memories are vivid.
+- Past can be more sensory—childhood memories are vivid.
 - Clumsiness might be the trigger (drops something that grandmother gave her).
 
 ### Coffee Integration
-Coffee as continuityâ€”Dad's influence, studying since age 10. Or contrast: what coffee meant then vs. now.
+Coffee as continuity—Dad's influence, studying since age 10. Or contrast: what coffee meant then vs. now.
 
 ### Ending Techniques
 - The present object/trigger seen differently now
@@ -317,7 +317,7 @@ A customer mentions their grandmother. Rena's back at eleven, sitting with Grand
 
 **What it is:** Nothing dramatic happens. Presence. Stillness. Meaning in the ordinary. The kind of story that trusts the reader.
 
-**When to use:** After high-energy stories. When you need breathing room. When the lesson is rest, contentment, presence. When you want to show that not every day is a storyâ€”but every day can be.
+**When to use:** After high-energy stories. When you need breathing room. When the lesson is rest, contentment, presence. When you want to show that not every day is a story—but every day can be.
 
 **Word count:** 800-1,000
 
@@ -334,7 +334,7 @@ A customer mentions their grandmother. Rena's back at eleven, sitting with Grand
 ### Pacing Notes
 - Slow. Deliberate. No rush.
 - Almost no dialogue. Mostly observation and interiority.
-- Clumsiness might be absent or gentleâ€”she's present today. Grounded.
+- Clumsiness might be absent or gentle—she's present today. Grounded.
 
 ### Coffee Integration
 She's probably making her own cup. The ritual itself. No rush to serve anyone.

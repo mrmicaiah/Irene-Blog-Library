@@ -1,8 +1,8 @@
-# THE HOT MESS â€” STORY WORLD
+# THE HOT MESS — STORY WORLD
 
 ## THE WORLD
 
-**The Setting:** A small-town historic downtown in the northern Midwestâ€”think Indiana, southern Michigan, Illinois. Four real seasons. Snow in winter, humid summers, fall color, spring thaw. The kind of Main Street that's finding its way backâ€”some storefronts still empty, but new owners arriving, old buildings being restored. Connected antique shops and historic buildings line both sides of the street. Parallel parking. Old-fashioned standalone street lamps that look like they've been there a hundred years.
+**The Setting:** A small-town historic downtown in the northern Midwest—think Indiana, southern Michigan, Illinois. Four real seasons. Snow in winter, humid summers, fall color, spring thaw. The kind of Main Street that's finding its way back—some storefronts still empty, but new owners arriving, old buildings being restored. Connected antique shops and historic buildings line both sides of the street. Parallel parking. Old-fashioned standalone street lamps that look like they've been there a hundred years.
 
 In the middle of this quiet revival sits The Hot Mess, a coffee shop in a converted bakery space, with a studio apartment upstairs where a young woman is learning what freedom actually feels like.
 
@@ -20,15 +20,15 @@ In the middle of this quiet revival sits The Hot Mess, a coffee shop in a conver
 - **Service counter** runs along the back wall with stools where customers sit, watch Rena work, and chat
 - **Betsy** (the espresso machine) is the centerpiece behind the counter
 - **6 tables total**, all slightly mismatched:
-  - **Corner table** â€” 2-person, by the window, view of St. Francis Memorial cemetery. Has a certain vibe. Regulars know.
-  - **Student table** â€” Seats 6, near outlet, always has laptops, younger crowd energy
+  - **Corner table** — 2-person, by the window, view of St. Francis Memorial cemetery. Has a certain vibe. Regulars know.
+  - **Student table** — Seats 6, near outlet, always has laptops, younger crowd energy
   - **Four 2-4 person tables** scattered throughout
-- **Rustic bookshelf** in the cornerâ€”started as lost and found, evolved into community book exchange. Sticky notes left inside books. Regulars browse. Has its own quiet life.
-- **Community bulletin board** on the wallâ€”Romans 8:1 posted in the center
+- **Rustic bookshelf** in the corner—started as lost and found, evolved into community book exchange. Sticky notes left inside books. Regulars browse. Has its own quiet life.
+- **Community bulletin board** on the wall—Romans 8:1 posted in the center
 
 ### The Atmosphere
 - Bell on the door announces arrivals
-- Soft background musicâ€”typically piano hymns, occasionally CCM when she's feeling bold. Never loud. Always just atmosphere.
+- Soft background music—typically piano hymns, occasionally CCM when she's feeling bold. Never loud. Always just atmosphere.
 - From the service counter, Rena can see out the front door and corner window
 
 ### The Back Room
@@ -59,11 +59,11 @@ Through the storage room, up the stairs. Shop and home connected. No separate en
   - Mabel's throne when Rena's working downstairs
   - Rena's reading and decompression spot after hours
   - The chair that says her mother loves her even when Linda can't say it herself
-- **Linda's blanket** â€” lives here, used constantly
+- **Linda's blanket** — lives here, used constantly
 
 ### The Window
 - View: Brick wall of St. Francis Memorial Church and its sign
-- Not scenic, but somehow rightâ€”a church she didn't choose, watching over her anyway
+- Not scenic, but somehow right—a church she didn't choose, watching over her anyway
 
 ### The Vibe
 - Still simple. Still becoming.
@@ -91,9 +91,9 @@ Through the storage room, up the stairs. Shop and home connected. No separate en
 
 | Location | What's There |
 |----------|--------------|
-| Directly across | **St. Francis Memorial Church** â€” Old stone church, visible from apartment and corner table. Cemetery visible only from corner table. |
-| Next to church | **Lou's Barber Shop** â€” Been there 40 years. Lou (60s) knows things. Says little. Sees everything. |
-| Down from barber | **Empty Storefront** â€” Who will move in? Tension. Rumors. Future story. |
+| Directly across | **St. Francis Memorial Church** — Old stone church, visible from apartment and corner table. Cemetery visible only from corner table. |
+| Next to church | **Lou's Barber Shop** — Been there 40 years. Lou (60s) knows things. Says little. Sees everything. |
+| Down from barber | **Empty Storefront** — Who will move in? Tension. Rumors. Future story. |
 
 ### Nearby
 
@@ -112,10 +112,10 @@ Through the storage room, up the stairs. Shop and home connected. No separate en
 - The Hot Mess
 - Her apartment
 - Downtown district (all the above)
-- St. Francis Memorial (across the streetâ€”not her church, just her view)
+- St. Francis Memorial (across the street—not her church, just her view)
 
 ### Between Towns (10 minutes)
-**Grace Community Church** â€” Jennifer's church, Pastor Coleman's Southern Baptist church
+**Grace Community Church** — Jennifer's church, Pastor Coleman's Southern Baptist church
 - Large but not mega
 - Modern worship (lights, fog, volume)
 - Where Rena can disappear in the darkness and sing as loud as she wants
@@ -194,7 +194,7 @@ Through the storage room, up the stairs. Shop and home connected. No separate en
 | **Brazilian** | Nutty, sweet, low acid | Easy drinking, approachable |
 
 ### Supplier
-- **Riverside Coffee Roasting** â€” 30 minutes north, small operation, custom roasts
+- **Riverside Coffee Roasting** — 30 minutes north, small operation, custom roasts
 - Ask for Marcus (Todd's connection)
 
 ---
@@ -238,7 +238,7 @@ Where stories come from:
 - Spilling while making perfect coffee
 - Coffee grounds in impossible places
 - Tripping, bumping, chaos
-- Never played for pityâ€”played for warmth
+- Never played for pity—played for warmth
 - The coffee is always perfect. The process is always messy.
 - **This never changes. This never improves. This is Rena.**
 
@@ -254,7 +254,7 @@ Where stories come from:
 
 ## BIBLICAL THEMES
 
-**Anchor Verse:** Romans 8:1 â€” "There is therefore now no condemnation to them which are in Christ Jesus."
+**Anchor Verse:** Romans 8:1 — "There is therefore now no condemnation to them which are in Christ Jesus."
 - Her favorite. Her foundation. Posted on the bulletin board.
 - Appears when she needs her anchor, not every story.
 

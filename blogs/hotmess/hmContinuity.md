@@ -1,4 +1,4 @@
-# THE HOT MESS â€” CONTINUITY TRACKER
+# THE HOT MESS — CONTINUITY TRACKER
 
 ## PURPOSE
 
@@ -15,10 +15,10 @@ Track story events, character appearances, callbacks, and timeline to maintain w
 **Pre-Story Events:**
 - Rena grows up in IFB household, homeschooled, isolated
 - Begins secretly studying Bible, finds contradictions
-- Discovers Romans 8:1 â€” changes everything
+- Discovers Romans 8:1 — changes everything
 - Works at Starbucks, meets Jennifer
 - Jennifer invites her to church repeatedly
-- Attends potluck at Jennifer's church â€” sees freedom and faith together
+- Attends potluck at Jennifer's church — sees freedom and faith together
 - Car accident settlement provides seed money
 - Jennifer helps create business plan (with holes)
 - Grandmother dies when Rena is 14 (heart attack, quick)
@@ -34,20 +34,20 @@ Track story events, character appearances, callbacks, and timeline to maintain w
 - Moves into apartment above shop
 
 **Early Shop Days:**
-- First day in shop â€” sees potential through grime
-- First night alone â€” mattress on floor, watching movie, wearing jeans
-- David helps move furniture â€” the disapproving look at her jeans
+- First day in shop — sees potential through grime
+- First night alone — mattress on floor, watching movie, wearing jeans
+- David helps move furniture — the disapproving look at her jeans
 - Betsy (espresso machine) has gasket failure during David's visit
 - Todd comes to fix Betsy, unfazed by her chaos
-- Jennifer helps paint â€” paint everywhere
-- The name brainstorm â€” "The Hot Mess" is born
+- Jennifer helps paint — paint everywhere
+- The name brainstorm — "The Hot Mess" is born
 
 **Establishing The Hot Mess:**
 - Shop opens
 - Regulars begin forming
 - Book exchange shelf evolves from lost and found
 - Community bulletin board goes up with Romans 8:1
-- Noah smoke alarm incident (2 AM) â€” daily coffee ritual begins
+- Noah smoke alarm incident (2 AM) — daily coffee ritual begins
 - Patricia's transformation (complaints to understanding)
 - Grace begins Thursday 3 PM visits (daughter died, Thursdays were their coffee day)
 
@@ -56,8 +56,8 @@ Track story events, character appearances, callbacks, and timeline to maintain w
 - First holiday season
 - First Christmas away from parents
   - Christmas Eve with Todd's family
-  - Christmas morning â€” David brings grandmother's necklace
-  - December 26 â€” misfits gathering
+  - Christmas morning — David brings grandmother's necklace
+  - December 26 — misfits gathering
 - One year anniversary of moving out
 
 ### Year 2+ (Growth Years)
@@ -87,93 +87,93 @@ Track when each character appears to ensure variety and note developments.
 **Jennifer**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | 2026-01-14 | In Which Customer Appreciation Day Becomes a War Crime | Focus | Glitter disaster, THAN YOU banner |
-| â€” | 2026-01-23 | In Which Loving Someone Means Telling Them the Hard Thing | Focus | Boundaries conflict, clipboard plans |
+| — | 2026-01-14 | In Which Customer Appreciation Day Becomes a War Crime | Focus | Glitter disaster, THAN YOU banner |
+| — | 2026-01-23 | In Which Loving Someone Means Telling Them the Hard Thing | Focus | Boundaries conflict, clipboard plans |
 
 **Todd**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | 2026-01-14 | In Which the Valve Is Fine and He Comes Back Anyway | Focus | Three visits, Chinese food on floor, cortado established |
-| â€” | 2026-01-23 | In Which Showing Up Turns Out to Be a Two-Way Street | Mention | Text about grinder |
+| — | 2026-01-14 | In Which the Valve Is Fine and He Comes Back Anyway | Focus | Three visits, Chinese food on floor, cortado established |
+| — | 2026-01-23 | In Which Showing Up Turns Out to Be a Two-Way Street | Mention | Text about grinder |
 
 **David**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | 2026-01-14 | In Which I Wait for Criticism That Never Comes | Focus | Apologized for jeans look, "I see that" |
+| — | 2026-01-14 | In Which I Wait for Criticism That Never Comes | Focus | Apologized for jeans look, "I see that" |
 
 **Linda**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | 2026-01-14 | In Which Glad It Fits Means Something Else Entirely | Focus | Sage green scarf, "Glad it fits" |
+| — | 2026-01-14 | In Which Glad It Fits Means Something Else Entirely | Focus | Sage green scarf, "Glad it fits" |
 
 ### Regulars
 
 **Noah**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | 2026-01-23 | In Which Showing Up Turns Out to Be a Two-Way Street | Focus | Wooden scoop gift, "My wife's. She'd wantâ€”" |
+| — | 2026-01-23 | In Which Showing Up Turns Out to Be a Two-Way Street | Focus | Wooden scoop gift, "My wife's. She'd want—" |
 
 **Patricia**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | 2026-01-14 | In Which Customer Appreciation Day... | Cameo | Called glitter "festive" |
-| â€” | 2026-01-23 | In Which Showing Up Turns Out to Be a Two-Way Street | Cameo | Scones are "interesting" |
-| â€” | 2026-01-23 | In Which Loving Someone Means Telling Them the Hard Thing | Cameo | "It's fine" (not fine), wrong order from Jennifer |
+| — | 2026-01-14 | In Which Customer Appreciation Day... | Cameo | Called glitter "festive" |
+| — | 2026-01-23 | In Which Showing Up Turns Out to Be a Two-Way Street | Cameo | Scones are "interesting" |
+| — | 2026-01-23 | In Which Loving Someone Means Telling Them the Hard Thing | Cameo | "It's fine" (not fine), wrong order from Jennifer |
 
 **Walter**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | 2026-01-14 | In Which Nothing Happens and That's the Point | Focus | Smiley face, "sitting is doing something" |
+| — | 2026-01-14 | In Which Nothing Happens and That's the Point | Focus | Smiley face, "sitting is doing something" |
 
 **Grace**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | 2026-01-23 | In Which She Doesn't Leave at 3:30 and I Don't Know What to Do | Focus | Stayed past 3:30, first time saying Rena's name |
+| — | 2026-01-23 | In Which She Doesn't Leave at 3:30 and I Don't Know What to Do | Focus | Stayed past 3:30, first time saying Rena's name |
 
 ### Neighbors
 
 **Earl (Antiques)**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | 2026-01-14 | In Which the Valve Is Fine... | Cameo | Mentioned in Todd story |
+| — | 2026-01-14 | In Which the Valve Is Fine... | Cameo | Mentioned in Todd story |
 
 **Jamie (Florist)**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | 2026-01-23 | In Which Forty-Seven Arrangements and One Mailbox Meet Their Match | Focus | Valentine disaster, first time sitting in shop |
+| — | 2026-01-23 | In Which Forty-Seven Arrangements and One Mailbox Meet Their Match | Focus | Valentine disaster, first time sitting in shop |
 
 **Lou (Barber)**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | â€” | â€” | â€” | Not yet appeared in story |
+| — | — | — | — | Not yet appeared in story |
 
 **Milly (Diner)**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | 2026-01-23 | In Which Loving Someone Means Telling Them the Hard Thing | Setting | Neutral ground for Jennifer conversation |
+| — | 2026-01-23 | In Which Loving Someone Means Telling Them the Hard Thing | Setting | Neutral ground for Jennifer conversation |
 
 ### Others
 
 **Mabel**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | 2026-01-14 | In Which Glad It Fits Means Something Else Entirely | Supporting | Cozy chair, watching |
-| â€” | 2026-01-23 | In Which Terrible Coffee Tastes Like Being Known | Cameo | Judging from chair |
+| — | 2026-01-14 | In Which Glad It Fits Means Something Else Entirely | Supporting | Cozy chair, watching |
+| — | 2026-01-23 | In Which Terrible Coffee Tastes Like Being Known | Cameo | Judging from chair |
 
 **Todd's Family**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | â€” | â€” | â€” | Not appeared since Christmas stories |
+| — | — | — | — | Not appeared since Christmas stories |
 
 **Sophie**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | â€” | â€” | â€” | In Seattle, mentioned only |
+| — | — | — | — | In Seattle, mentioned only |
 
 **Grandmother (Flashback)**
 | Story # | Date | Story Title | Role | Notes |
 |---------|------|-------------|------|-------|
-| â€” | 2026-01-23 | In Which Terrible Coffee Tastes Like Being Known | Focus | Yellow kitchen, cat clock, "Don't ever stop" |
+| — | 2026-01-23 | In Which Terrible Coffee Tastes Like Being Known | Focus | Yellow kitchen, cat clock, "Don't ever stop" |
 
 ---
 
@@ -308,7 +308,7 @@ Track what season/time of year stories occur to maintain consistency.
 | Story | What Happened | Connection Level |
 |-------|---------------|------------------|
 | Smoke alarm | 2 AM rescue, daily coffee begins | Established |
-| 2026-01-23 | Wooden scoop gift, "My wife's. She'd wantâ€”" | Deepened |
+| 2026-01-23 | Wooden scoop gift, "My wife's. She'd want—" | Deepened |
 
 **Current Status:** 213 cups. He was receiving, not just taking. Ritual continues. Scoop now lives by Betsy.
 
@@ -421,7 +421,7 @@ Things that are established and must stay consistent:
 
 ## ALREADY WRITTEN (Prevent Duplicates)
 
-Stories/premises that have been done â€” don't repeat:
+Stories/premises that have been done — don't repeat:
 
 **January 14, 2026:**
 - Todd three visits in one day, Chinese food on back room floor
@@ -447,11 +447,11 @@ Stories/premises that have been done â€” don't repeat:
 ## HOW TO USE THIS DOCUMENT
 
 ### Before Writing
-1. Check timeline â€” when does this story happen?
-2. Check character appearances â€” who's due?
-3. Check callbacks â€” any opportunities?
-4. Check active threads â€” any to advance?
-5. Check "Already Written" â€” don't duplicate
+1. Check timeline — when does this story happen?
+2. Check character appearances — who's due?
+3. Check callbacks — any opportunities?
+4. Check active threads — any to advance?
+5. Check "Already Written" — don't duplicate
 
 ### After Writing
 1. Log character appearances
@@ -462,8 +462,8 @@ Stories/premises that have been done â€” don't repeat:
 6. Add premise to "Already Written" if distinctive
 
 ### Periodically
-1. Review active threads â€” which need attention?
-2. Check seasonal distribution â€” balanced?
+1. Review active threads — which need attention?
+2. Check seasonal distribution — balanced?
 3. Look for callback opportunities unused
 4. Update relationship trackers
 

@@ -1,4 +1,4 @@
-# THE HOT MESS â€” VOICE GUIDE
+# THE HOT MESS — VOICE GUIDE
 
 ## THE CORE EQUATION
 
@@ -52,13 +52,13 @@ Use for:
 ### Paragraph Structure (Lawson-Dominant)
 
 **The Container (Lawson):**
-Longer paragraphs are the default. Sentences that stretch, thoughts that spiral, em-dashes that connect observations the way a mind actually worksâ€”one thing leading to another, parentheticals adding texture, the reader settling into the flow like sinking into a chair. This is where the reader *lives* in the story.
+Longer paragraphs are the default. Sentences that stretch, thoughts that spiral, em-dashes that connect observations the way a mind actually works—one thing leading to another, parentheticals adding texture, the reader settling into the flow like sinking into a chair. This is where the reader *lives* in the story.
 
 Example:
-> She comes in at 2:15 on a Tuesday, and I know something's wrong before she reaches the counterâ€”it's the way she holds herself, shoulders curved inward like she's trying to take up less space than she already does, arms crossed over her chest in that protective way I remember from mirrors I tried not to look into.
+> She comes in at 2:15 on a Tuesday, and I know something's wrong before she reaches the counter—it's the way she holds herself, shoulders curved inward like she's trying to take up less space than she already does, arms crossed over her chest in that protective way I remember from mirrors I tried not to look into.
 
 **The Punctuation (Backman):**
-Short emotional beats land BECAUSE they interrupt the flow. Use sparinglyâ€”maybe 3-5 times per story. One or two sentences that stop the reader, make them feel something, then release them back into the current.
+Short emotional beats land BECAUSE they interrupt the flow. Use sparingly—maybe 3-5 times per story. One or two sentences that stop the reader, make them feel something, then release them back into the current.
 
 Example (after a long flowing section):
 > Something loosens in my chest.
@@ -148,7 +148,7 @@ Funny disaster â†’ SHORT paragraph break â†’ One-line emotional gut-pu
 - Often happens during important moments
 - Usually makes things worse before better
 - She may not notice until someone points it out
-- Never played for pityâ€”played for warmth
+- Never played for pity—played for warmth
 
 **Formula:**
 Setup â†’ disaster â†’ (optional escalation) â†’ realization â†’ Backman emotional landing
@@ -160,7 +160,7 @@ Setup â†’ disaster â†’ (optional escalation) â†’ realization â�
 >
 > Okay, "exploded" is dramatic. She leaked. Aggressively. Coffee grounds everywhere. On the counter. On the floor. On my face. On the ceiling.
 >
-> "It's the gasket," I was explaining, because explaining is what I do when I panic, "when the pressure builds upâ€”"
+> "It's the gasket," I was explaining, because explaining is what I do when I panic, "when the pressure builds up—"
 >
 > "Rena."
 >
@@ -196,7 +196,7 @@ Normal moment â†’ small kindness â†’ Rena notices â†’ short emoti
 - References Scripture naturally (but not preachy)
 
 **Example:**
-> "Oh! Well, the thing about single-origin beans isâ€”sorry, am I talking too much? I do that. Jennifer says I 'information dump' which sounds medical but isn't wrongâ€”anyway, Ethiopian Yirgacheffe has these floral notes, almost jasmine-like? And if you over-roast you lose the complexity... Wait. Did that make sense? Or did I just word-vomit coffee facts at you?"
+> "Oh! Well, the thing about single-origin beans is—sorry, am I talking too much? I do that. Jennifer says I 'information dump' which sounds medical but isn't wrong—anyway, Ethiopian Yirgacheffe has these floral notes, almost jasmine-like? And if you over-roast you lose the complexity... Wait. Did that make sense? Or did I just word-vomit coffee facts at you?"
 
 ### Other Characters
 Keep them NORMAL to contrast with Rena's chaos:
@@ -213,7 +213,7 @@ Keep them NORMAL to contrast with Rena's chaos:
 **The Flow:**
 Lawson is the river. Backman is the rock that makes the water visible.
 
-The default is flowing proseâ€”long sentences, connected thoughts, em-dashes and parentheticals, the reader carried along in Rena's internal monologue. Inside that flow, occasionally, a short beat lands. A single sentence. A moment of stillness.
+The default is flowing prose—long sentences, connected thoughts, em-dashes and parentheticals, the reader carried along in Rena's internal monologue. Inside that flow, occasionally, a short beat lands. A single sentence. A moment of stillness.
 
 Then the river continues.
 
@@ -318,7 +318,7 @@ Rena's voice should always include:
 >
 > It's messier than I thought it would be.
 >
-> Mother would say *I told you so*, except she's not speaking to me right now. Dad still textsâ€”short messages: "How's the shop?" "Need anything?" Once he sent me a photo of biscuits with no context. I cried for twenty minutes.Â²
+> Mother would say *I told you so*, except she's not speaking to me right now. Dad still texts—short messages: "How's the shop?" "Need anything?" Once he sent me a photo of biscuits with no context. I cried for twenty minutes.Â²
 >
 > The thing nobody tells you about freedom is that it's terrifying. Like, wake-up-at-3-AM-wondering-if-you've-made-a-terrible-mistake terrifying.
 >
@@ -341,7 +341,7 @@ Rena's voice should always include:
 
 ## BEFORE/AFTER EXAMPLE
 
-**BEFORE (Over-indexed on Backman â€” too staccato):**
+**BEFORE (Over-indexed on Backman — too staccato):**
 
 > She comes in at 2:15 on a Tuesday.
 > 
@@ -357,11 +357,11 @@ Rena's voice should always include:
 
 **AFTER (Lawson-dominant with Backman punctuation):**
 
-> She comes in at 2:15 on a Tuesday, and I know something's wrong before she reaches the counterâ€”it's the way she holds herself, shoulders curved inward like she's trying to take up less space than she already does, arms crossed over her chest in that protective way I remember from mirrors I tried not to look into. She's maybe sixteen, seventeen, old enough to be in a coffee shop alone but young enough that it feels strange she is, and her dress is long and floral and high-necked in a way that makes my stomach clench.
+> She comes in at 2:15 on a Tuesday, and I know something's wrong before she reaches the counter—it's the way she holds herself, shoulders curved inward like she's trying to take up less space than she already does, arms crossed over her chest in that protective way I remember from mirrors I tried not to look into. She's maybe sixteen, seventeen, old enough to be in a coffee shop alone but young enough that it feels strange she is, and her dress is long and floral and high-necked in a way that makes my stomach clench.
 >
 > I know that dress. I owned seven versions of it.
 
-The first version has 6 paragraph breaks in what should be one flowing observation. The second has one break, placed where it landsâ€”at the moment of recognition.
+The first version has 6 paragraph breaks in what should be one flowing observation. The second has one break, placed where it lands—at the moment of recognition.
 
 ---
 

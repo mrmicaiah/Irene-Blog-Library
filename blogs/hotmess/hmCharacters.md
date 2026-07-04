@@ -1,4 +1,4 @@
-# THE HOT MESS â€” CHARACTER BIBLE
+# THE HOT MESS — CHARACTER BIBLE
 
 ## THE NARRATOR
 
@@ -11,7 +11,7 @@
 
 **Physical Description:**
 - Petite and curvy build
-- Mousy brown hair â€” super thick, unruly curly, long (usually ponytail)
+- Mousy brown hair — super thick, unruly curly, long (usually ponytail)
 - Green feline-shaped eyes
 - Perfectly oval face, super long eyelashes
 - Wears glasses
@@ -21,10 +21,10 @@
 **Style:**
 - Blue jeans (loose/practical, still learning)
 - Oversized t-shirts (slowly evolving)
-- Raw material that's never been cultivated â€” could be stunning but has no idea
+- Raw material that's never been cultivated — could be stunning but has no idea
 
 **The Clumsiness (PERMANENT):**
-- Not physical coordination issues â€” mental absence from physical space
+- Not physical coordination issues — mental absence from physical space
 - Lives deeply in thoughts, forgets physical world exists
 - Worse when: thinking, anxious, excited, processing emotionally
 - Better when: forced to be present, someone talking to her
@@ -51,7 +51,7 @@
 - Studying since age 10 (dad's influence)
 - Self-taught through obsessive learning
 - Worked at Starbucks (where she met Jennifer)
-- True expert â€” knows origins, roasts, preparation methods
+- True expert — knows origins, roasts, preparation methods
 
 **Skills:**
 - Memory for details
@@ -59,7 +59,7 @@
 - Written communication
 - Coffee expertise
 - Amazing singing voice (hidden, rarely used)
-- Hospitality â€” makes misfits feel welcome
+- Hospitality — makes misfits feel welcome
 
 **Weaknesses:**
 - Technology (limited access growing up)
@@ -71,7 +71,7 @@
 **Internal Life:**
 - Fights guilt with Scripture (1 Corinthians 6:12 framework)
 - Inner critic mostly mother's voice
-- Has to actively choose joy â€” default scans for disaster
+- Has to actively choose joy — default scans for disaster
 - Craves connection desperately but awkward at building it
 
 **Growth Areas (Ongoing):**
@@ -95,7 +95,7 @@
 - Perfectly straight blonde hair with beautiful highlights
 - A bit taller than Rena
 - Perfect body shape
-- Trendy, put-together style â€” looks like Instagram but isn't high maintenance
+- Trendy, put-together style — looks like Instagram but isn't high maintenance
 
 **Personality:**
 - Overly friendly, warm, inclusive
@@ -122,7 +122,7 @@
 - Business plan has serious holes
 - Pushy with helpfulness
 - Better at cheerleading than practical planning
-- Has never struggled financially â€” has blind spots
+- Has never struggled financially — has blind spots
 - Will be hurt/defensive when flaws surface
 
 **Story Potential:**
@@ -145,12 +145,12 @@
 - Shop is one block from The Hot Mess
 
 **Appearance:**
-- [Keep somewhat undefined â€” let readers imagine]
+- [Keep somewhat undefined — let readers imagine]
 - Practical, working clothes
 - Capable hands
 
 **Personality:**
-- Laconic â€” few words, all meaningful
+- Laconic — few words, all meaningful
 - Completely unfazed by chaos
 - Sees through to competence
 - Offers help without making it weird
@@ -176,7 +176,7 @@
 - His family welcomes her
 - Moments of tension
 - Nothing stated
-- Readers want it â€” don't give it to them fully
+- Readers want it — don't give it to them fully
 
 **Story Potential:**
 - Practical help with equipment
@@ -212,7 +212,7 @@
 
 **The Limit:**
 - Gave disapproving look when he first saw her in jeans
-- Didn't say anything â€” but it devastated her
+- Didn't say anything — but it devastated her
 - Loves her AND is bound by his beliefs
 - His support has limits he didn't know existed
 
@@ -265,7 +265,7 @@
 - But so is the chair, the blanket, the gifts
 - Can't bridge gap with words but tries with objects
 - Terrified and hurt but still wants Rena taken care of
-- Complex â€” not villain, not ally, mother
+- Complex — not villain, not ally, mother
 
 **Story Potential:**
 - Packages with no notes
@@ -286,7 +286,7 @@
 **Basics:**
 - Elderly widower
 - Man of few words
-- Apartment is completely silent â€” no TV, no music
+- Apartment is completely silent — no TV, no music
 
 **The Connection:**
 - Rena needed smoke alarm help at 2 AM
@@ -313,9 +313,9 @@
 **Role:** The former complainer, now understood
 
 **History:**
-- Used to criticize everything â€” coffee too hot, too cold, too strong
+- Used to criticize everything — coffee too hot, too cold, too strong
 - Rena dreaded her, complained to Jennifer
-- One day came in broken â€” husband left after 32 years
+- One day came in broken — husband left after 32 years
 - Rena sat with her, saw past the behavior
 
 **The Insight:**
@@ -329,7 +329,7 @@
 - Loyal customer
 - Sits at corner table, reading, finally peaceful
 
-**Order:** Complicated â€” half-caf, oat milk, extra hot, light foam
+**Order:** Complicated — half-caf, oat milk, extra hot, light foam
 
 **Story Potential:**
 - Character study of transformation
@@ -432,7 +432,7 @@
 **The Revelation:**
 - Opening her own coffee shop in Seattle
 - Learned what she wanted by watching Rena
-- "You didn't just serve me coffee â€” you showed me what I want to do with my life"
+- "You didn't just serve me coffee — you showed me what I want to do with my life"
 
 **Now:**
 - Sends texts/letters from Seattle
@@ -546,7 +546,7 @@
 
 ---
 
-### JAMIE (Florist â€” Petal & Vine)
+### JAMIE (Florist — Petal & Vine)
 
 **Basics:**
 - Late 20s/early 30s
@@ -556,7 +556,7 @@
 **Personality:**
 - Quieter, more reserved than Jennifer
 - Also trying to make it work
-- Natural ally â€” two young women on the same block
+- Natural ally — two young women on the same block
 
 **Story Potential:**
 - Shared struggle of new business owners
@@ -592,7 +592,7 @@
 **Personality:**
 - Gruff but maternal
 - "You eating enough? You look tired."
-- Different crowd â€” lunch vs. coffee
+- Different crowd — lunch vs. coffee
 
 **Relationship with Rena:**
 - Where Rena goes when she doesn't want to cook

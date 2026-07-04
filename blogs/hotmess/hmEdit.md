@@ -1,4 +1,4 @@
-# THE HOT MESS â€” EDIT PROCESS
+# THE HOT MESS — EDIT PROCESS
 
 ## OVERVIEW
 
@@ -99,7 +99,7 @@ Reference `hmCharacters.md` and check:
 | Type | Pacing Notes | Check |
 |------|--------------|-------|
 | The Moment | Slow, present, real-time feel | |
-| The Day | Variedâ€”morning slow, middle moves, evening settles | |
+| The Day | Varied—morning slow, middle moves, evening settles | |
 | The Incident | Fast middle, slow landing | |
 | The Visitor | Driven by the visitor's presence | |
 | The Portrait | Fluid time, reflection pace | |
@@ -175,7 +175,7 @@ Every story should have at least one clumsiness moment:
 
 ### Check For
 - [ ] Theme verse/principle present (subtle or direct)
-- [ ] Not preachyâ€”woven in naturally
+- [ ] Not preachy—woven in naturally
 - [ ] Matches the story's theme from `hmAxes.md`
 - [ ] Feels like Rena's internal framework, not sermon
 
@@ -183,7 +183,7 @@ Every story should have at least one clumsiness moment:
 
 | Level | Description | When to Use |
 |-------|-------------|-------------|
-| **Direct Quote** | Rena quotes the verse | Rarelyâ€”major moments only |
+| **Direct Quote** | Rena quotes the verse | Rarely—major moments only |
 | **Paraphrase** | Rena thinks the concept in her words | Often |
 | **Echo** | The verse's truth is lived, not stated | Most common |
 | **Absence** | No scripture, theme still present | Occasionally okay |
