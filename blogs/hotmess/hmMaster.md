@@ -60,7 +60,7 @@ IDEA → DRAFT → EDIT → TITLES → [ANOTHER or EXPORT]
 Generate a story idea using the axes in `hmAxes.md`.
 
 **Before generating, run the PRE-GENERATION CHECK:**
-1. Review `hmStoryLog.md` for recent stories
+1. Reconcile `hmStoryLog.md` against the live platform list (PRE-GENERATION CHECK step 0), then review it for recent stories
 2. Determine which slot this story is for (Tuesday/Friday anchor, or Sunday flex)
 3. Restrict type selection to the correct pool (anchor vs flex)
 4. Check rotation rules (below)
@@ -165,7 +165,7 @@ When user says "export," "publish," "schedule," "post," or "done":
 Ready to start a new session anytime!
 ```
 
-5. **Generate Updated Merged Master Story Log.** This must be a SINGLE MERGED FULL-HISTORY master (every story from #1 to present in one file), NOT a session-only snapshot. Steps:
+5. **Generate Updated Merged Master Story Log — write each row at SCHEDULE time, not deferred.** The moment `up_blog_schedule_post` returns success for a story, write that story's row into `hmStoryLog.md` (status Scheduled + post id + scheduled date) before moving on. Never leave a scheduled post unlogged — that is exactly what breaks the next pre-gen check. **Split, by design:** at schedule time add ONLY the history row + the Scheduled status; do NOT advance the derived trackers (Character / Theme / Type / Location tables + fingerprints) now — the PRE-GENERATION CHECK step 0 recomputes those from the rows when it next runs. Then, as today, ensure the file remains a SINGLE MERGED FULL-HISTORY master (every story from #1 to present in one file), NOT a session-only snapshot. Steps:
    - Read the current master (`hmStoryLog.md`) in full first.
    - Append the new session's stories into the appropriate phase table, with a slot column and coffee column on new entries.
    - Advance EVERY tracker to current state: Character Appearance, Theme, Type, Location, and the Rotation Rules quick reference (forbidden/available for the next story #).
@@ -245,6 +245,14 @@ The Hot Mess is a coffee shop story. Customers, regulars, and town life are the 
 ---
 
 ## PRE-GENERATION CHECK
+
+**0. RECONCILE THE LOG AGAINST THE PLATFORM FIRST — before any cooldown math.**
+The cooldown windows in ROTATION RULES are computed from `hmStoryLog.md`, but the log can lag the platform: any post already SCHEDULED via `up_blog_*` and not yet written into the log is invisible and will corrupt every character/theme/type/tone spacing calc.
+- Call `up_blog_list_posts(blog_id: "the-hot-mess", status: "scheduled")` and again with `status: "published"`.
+- Diff the returned posts (by id / title / scheduled date) against the history table in `hmStoryLog.md`.
+- For any platform post missing from the log, fold it in BEFORE computing cooldowns — add its history row now (following the numbering + reconciliation guidance in "EXPORT = PUBLISH" step 5), or at minimum treat its character/theme/type/tone as "used" on its scheduled date. Platform posts don't store the episode *type*; if type isn't obvious from tags, fetch the post (`up_blog_get_post`) to classify it, and if still ambiguous, FLAG rather than guess.
+- This is also where the schedule-time split is settled up: rows added at schedule time are intentionally bare (row + Scheduled status only). Recompute the derived trackers (Character/Theme/Type/Location tables + the ROTATION QUICK REFERENCE) from the reconciled rows now, as part of this step.
+- Only once the log reflects every scheduled+published post do you answer 1–12 below.
 
 Before creating a new story, answer:
 

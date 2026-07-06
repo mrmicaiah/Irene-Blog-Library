@@ -4,7 +4,7 @@
 
 The export process happens when the user says "export" or "compile" after creating one or more posts in a session.
 
-**Key Point:** Posts are published individually during the workflow (Step 7 of each post in SUSMaster.md). By the time the user says "export," all session posts are already scheduled in UP Blog with embedded affiliate links.
+**Key Point:** Posts are published individually during the workflow (Step 7 of each post in SUSMaster.md). By the time the user says "export," all session posts are already scheduled in UP Blog AND already recorded in `SUSIdeaLog.md` (each post is logged at schedule time per SUSMaster Step 7f); export only re-verifies and tidies the full-history master.
 
 **Export generates:** An updated idea log, written directly to `SUSIdeaLog.md` in the repo.
 

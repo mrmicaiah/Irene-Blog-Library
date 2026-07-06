@@ -74,7 +74,7 @@ When generating an idea, the order is:
 3. **What format inside that slot?** Look at SUSPostTypes.md and pick the form that suits the moment.
 4. **Does it touch an arc or thread?** Consult SUSArcs.md. If yes, note which one. If no, that's also fine — not every post needs to.
 5. **Is there teaching?** If the moment naturally lands on a method, pull from SUSFramework.md. If it doesn't, don't force one in.
-6. **Has this been done?** Cross-check SUSIdeaLog.md. The Method × Zone matrix is a *reference* for spotting accidental repetition, not a coverage scorecard.
+6. **Has this been done?** Cross-check SUSIdeaLog.md — after reconciling it against the live platform list per Pipeline Step 0. The Method × Zone matrix is a *reference* for spotting accidental repetition, not a coverage scorecard.
 
 A good post idea answers all six of those quickly. A bad one needs two of them invented to make it work.
 
@@ -124,6 +124,7 @@ After every completed post, show the session log and ask "What's next?" Never au
 Before generating an idea, compute the next open publishing slot. Schedule drives format, not the reverse.
 
 - Determine which slots are already taken (this session + anything already scheduled in UP Blog).
+- **Reconcile the log against the platform before any repetition/rotation check.** Call `up_blog_list_posts(blog_id: "systems-under-siege", status: "scheduled")` and `... "published"`, and diff against `SUSIdeaLog.md`. Any post live on the platform but missing from the log must be added to the log (or at least treated as "used") BEFORE you run step 6 of "How Posts Are Made" and before consulting SUSArcs.md — otherwise a scheduled-but-unlogged post reads as BOTH a free slot AND never-used content (a double error). The platform doesn't store method/zone; if it isn't obvious from tags, fetch the post (`up_blog_get_post`) to classify it, and if still ambiguous, FLAG rather than guess. Rows added at schedule time are intentionally bare (row + Scheduled status); recompute the derived trackers (Method × Zone matrix, format distribution, arc/thread tracking) from the reconciled rows here.
 - Identify the next open slot and its day: **Tuesday = Anchor, Thursday = Lighter.**
 - Generate an idea that fits that slot. If the next open slot is a Tuesday, pitch an Anchor; if Thursday, pitch a Lighter.
 - Surface the target slot/date to the user *at idea time*, not after drafting. State plainly which day the post will publish on so the cadence is visible before any writing happens.
@@ -255,6 +256,8 @@ Confirm:
 **Tags:** [tags]
 **Affiliate links:** [count]
 ```
+
+**7f. Record the post in `SUSIdeaLog.md` immediately (in place), the moment it's scheduled** — add its history row (status Scheduled + post id + date). Do NOT defer log-writes to "export." A scheduled post missing from the log breaks the next session's Step 0 reconciliation and the "Has this been done?" check. **Split, by design:** at schedule time add ONLY the history row + Scheduled status; do NOT advance the derived trackers (Method × Zone matrix, format distribution, arc/thread tracking) now — the next session's Pipeline Step 0 reconciliation recomputes those from the rows.
 
 ---
 

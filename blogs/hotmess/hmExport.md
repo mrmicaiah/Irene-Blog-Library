@@ -162,6 +162,8 @@ Parameters:
 - `2026-02-03T14:00:00Z` (CST)
 - `2026-07-15T13:00:00Z` (CDT)
 
+**5b. Log at schedule time (split).** Immediately after each successful `up_blog_schedule_post` call, append that story's row to `hmStoryLog.md` with status Scheduled (+ post id + scheduled date) — do not wait for the STORY LOG UPDATE section to run as a separate pass. Add ONLY the row + Scheduled status at this point; do NOT advance the derived cooldown trackers (Character/Theme/Type/Location tables + fingerprints) here — the next PRE-GENERATION CHECK step 0 recomputes those from the rows.
+
 ### Step 6: Confirm Publication
 
 After scheduling all posts:
