@@ -1,4 +1,4 @@
-# THE HOT MESS — STORY LOG (UPDATED July 4, 2026 — POST-EXPORT #120)
+# THE HOT MESS — STORY LOG (UPDATED July 6, 2026 — POST-EXPORT #124; reconciled parked #121–#123)
 
 ## PURPOSE
 
@@ -8,8 +8,15 @@ Comprehensive tracking of all Hot Mess stories for rotation rules and continuity
 
 **EXPORT INSTRUCTION (standing policy):** Every export must produce a single **merged full-history master** story log (this file), not a session-only snapshot. Merge new entries into the existing master, advance every tracker (character / theme / type / location / rotation), update the "latest export" note, carry forward all outstanding items and continuity corrections, then write the result back to `hmStoryLog.md` in place, overwriting its contents. Do NOT create a new dated file.
 
-**LATEST EXPORT (July 4, 2026):** Story #120 (Caleb [new customer] / Visitor / Purpose). Scheduled Tue July 7, 2026, 8:00 AM CDT (13:00:00Z), email on publish. Single-story session.
-- #120 ID `mr6rzu8icb8tvnaz0` (scheduled Jul 7)
+**LATEST EXPORT (July 6, 2026):** Story **#124** (Milly / The Quiet / Contentment). Created + scheduled **Sun July 12, 2026, 8:00 AM CDT (13:00:00Z)**, email on publish. ID `mr9mgqnekbg43oiyv`. Slug `in-which-two-people-who-never-sit-down-finally-do`. Repo copy: `blogs/hotmess/posts/124-two-people-who-never-sit-down.md`.
+- **STALE-LOG RECONCILIATION (this session):** three posts were live on the platform but missing from this log — all *old parked drafts* (created Mar–Apr 2026 per platform timestamps) that were scheduled on Jul 4. Added below as #121–#123 by scheduled date (numbering rationale + flags in the note under the history table):
+  - #121 `mnxrsuyey78yxf00r` — "In Which 'Saw It' Turns Out to Be a Complete Sentence" — sched Fri Jul 10 — Todd (+Patricia, Walter) / trust-surrender.
+  - #122 `mngkk3npb969ij72u` — "In Which a Motor Seizes and Something Else Starts" — sched Tue Jul 14 — Todd / faithfulness (Todd's repair shop; non-shop location).
+  - #123 `mmcaxc4rwsvkiujs9` — "In Which Milly Brings a Mop and I Learn Something About Fear" — sched Fri Jul 24 — Milly / (fear → Courage, inferred).
+- #124 publishes Sun Jul 12 — chronologically *between* #121 (Jul 10) and #122 (Jul 14). Numbers here follow **export order, not publish order** (consistent with the earlier #113/#114 inversion).
+
+**RECONCILED EXPORT (July 4, 2026):** Story #120 (Caleb [new customer] / Visitor / Purpose). Scheduled Tue July 7; now live/published. Email on publish.
+- #120 ID `mr6rzu8icb8tvnaz0`. ⚠️ Platform display title is **"In Which the Slow Pour Turns Out to Be the Whole Point"** — this differs from the title in this log and in the repo file `120-the-fastest-thing.md` ("…Fastest Thing…"). Flagged for correction; NOT silently changed here.
 
 **PRIOR EXPORT (June 18, 2026):** Stories #116 (Dad / Letter / Gratitude), #117 (Jennifer / Day / Wisdom), #118 (Noah / Incident / Belonging), #119 (Grace / Moment / Rest). #116 published immediately + emailed (Jun 18). #117 scheduled Sun Jun 21, #118 scheduled Tue Jun 23, #119 scheduled Fri Jun 26 — all 8:00 AM CDT, email on publish.
 - #116 ID `mqjufti75x4cwgkx3` (published)
@@ -168,7 +175,18 @@ These 43 story ideas were generated during initial launch. Status indicates whet
 | 117 | 2026-06-21 (Sun) | In Which I Drink the Worst Coffee of My Life on Purpose | The Day | Jennifer | Wisdom | Kenyan pour-over / Keurig pod | ~1,380 | Published |
 | 118 | 2026-06-23 (Tue) | In Which I Find Out the Difference Between Leaving Someone Alone and Leaving Them | The Incident | Noah | Belonging | Ethiopian Yirgacheffe + Sumatra | ~1,300 | Published |
 | 119 | 2026-06-26 (Fri) | In Which I Make a Coffee for Someone Who Isn't Coming | The Moment | Grace | Rest | Small black + iced vanilla latte (4-pump) | ~910 | Published |
-| 120 | 2026-07-07 (Tue) | In Which Someone Asks for the Fastest Thing and I Give Him the Slowest One on Purpose | The Visitor | Caleb (New) | Purpose | Costa Rican light-roast pour-over (vs. fast drip) | ~1,209 | Scheduled + email |
+| 120 | 2026-07-07 (Tue) | In Which Someone Asks for the Fastest Thing and I Give Him the Slowest One on Purpose | The Visitor | Caleb (New) | Purpose | Costa Rican light-roast pour-over (vs. fast drip) | ~1,209 | Published |
+| 121 | 2026-07-10 (Fri) | In Which 'Saw It' Turns Out to Be a Complete Sentence | The Day *(inferred)* | Todd (+Patricia, Walter) | Trust/Surrender | Espresso/drip (shop day) | (uncounted) | Scheduled + email |
+| 122 | 2026-07-14 (Tue) | In Which a Motor Seizes and Something Else Starts | The Incident *(inferred)* | Todd | Faithfulness | — (grinder seizes; Todd's repair shop) | (uncounted) | Scheduled + email |
+| 123 | 2026-07-24 (Fri) | In Which Milly Brings a Mop and I Learn Something About Fear | The Visitor *(inferred)* | Milly | Courage *(fear → inferred)* | Drip dark-roast Colombian | (uncounted) | Scheduled + email |
+| 124 | 2026-07-12 (Sun) | In Which Two People Who Never Sit Down Finally Do | The Quiet | Milly | Contentment | Colombian pour-over (hot) | ~965 | Scheduled + email |
+
+> **RECONCILIATION NOTE (July 6 session) — numbering + flags.** This session published #124 (the new Milly/Quiet/Contentment post, Sun Jul 12) and back-filled three parked posts that were live on the platform but absent from this log.
+> - **Numbering rationale:** the log ended at #120. The manager anchored "Saw It" (Fri Jul 10) as **#121**. The three parked posts were all created Mar–Apr 2026 and scheduled together on Jul 4, *before* #124 was drafted — so by export order they take #121/#122/#123, and #124 (created this session) is the next number, even though it publishes Jul 12 (before #122/#123). #122 vs #123 ordered by scheduled date (Motor Jul 14, Mop Jul 24); note this differs from their creation order (Mop was created Mar 4, before Motor Apr 1) — if the house rule is strict creation order, #122/#123 would swap. **FLAGGED, not silently guessed.**
+> - **Inferred fields (needs confirmation against the actual posts):** the *types* of #121 (The Day?), #122 (The Incident? / Portrait), and #123 (The Visitor? / Incident) are inferred from partial content, not labeled on the platform. #123's theme "fear" mapped to **Courage** (not a canonical theme word). Word counts for #121–123 left **uncounted** (platform content was truncated) rather than fabricated.
+> - **Rotation flag — Milly back-to-back:** #124 (Milly, Jul 12) and #123 (Milly, Jul 24) both feature Milly, with only #122 (Todd, Jul 14) between them by publish date. That breaches the character no-repeat-2 window. I did not know about the parked Mop story at pre-gen time (it wasn't in the log). Publishing was approved, so I proceeded — flagging for awareness; you may want to space future Milly stories.
+> - **#120 title mismatch:** platform shows "In Which the Slow Pour Turns Out to Be the Whole Point"; log/repo say "…Fastest Thing…". Left as-is pending your call.
+> - ⚠️ **The detailed cooldown trackers below (Character / Theme / Type / Location tables and the "FORBIDDEN FOR #12x" quick-reference) still read as of #120.** They were NOT auto-advanced through #121–#124 because three of those rows carry inferred types/themes; recompute them from the updated history table (and confirm the inferred fields) before the next pre-gen check.
 
 > Note on #120: single-story session (exported July 4). It's an anchor type (Visitor); the log's earlier target of Tue Jun 30 had passed by export time (today is Sat Jul 4), as had the Fri Jul 3 slot, so it went to the next open anchor slot, **Tue Jul 7**. Fingerprint: `Tue-Visitor-Caleb-HotMess-CustomerEncounter-WarmHopeful-Purpose`. Repo copy: `blogs/hotmess/posts/120-the-fastest-thing.md`.
 
@@ -265,8 +283,9 @@ These 43 story ideas were generated during initial launch. Status indicates whet
 **SLOT RULES:**
 - Anchor types (Day, Incident, Visitor, Portrait, Milestone, Flashback) → Tue/Fri only
 - Flex types (Quiet, Letter, Moment) → Sun only
-- **Last scheduled:** #120 The Visitor, Tue July 7, 2026
-- **Next slot:** #121 (anchor) → Friday July 10, 2026, 8:00 AM CDT — anchor slot (Day, Incident, Visitor, Portrait, Milestone, Flashback). (Sun Jul 12 is the next flex slot after that.)
+- **Scheduled on the platform after this session:** #121 Fri Jul 10, **#124 Sun Jul 12 (this post)**, #122 Tue Jul 14, #123 Fri Jul 24 (all 8:00 AM CDT).
+- **Next OPEN slots** (not yet filled): Fri Jul 17 (anchor), Sun Jul 19 (flex), Tue Jul 21 (anchor). ⚠️ Recompute the cooldown trackers from the updated history table (and confirm #121–#123 inferred types/themes) before generating the next story — the tables below still read as of #120.
+- NOTE: the "FORBIDDEN FOR #121" block below is now historical (it pre-dates this reconciliation); it reflects the pre-#121 state only.
 
 **THE CORE RULE — COFFEE SHOP FIRST:**
 At least 4 out of every 8 stories must be customer-focused or town/neighborhood-focused.
