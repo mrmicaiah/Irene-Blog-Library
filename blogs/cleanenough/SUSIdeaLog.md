@@ -1,6 +1,17 @@
 # CLEAN ENOUGH HOUSE - MASTER IDEA LOG
-## Last Updated: June 18, 2026
+## Last Updated: July 6, 2026
 
+> **SESSION NOTE (July 6, 2026):** One post added this session (#70), an **Anchor**
+> (Zone Transformation) — the blog's **first summer post** and the second
+> affiliate-carrying Anchor in a row (#69 → #70), keeping the revenue rhythm alive.
+> Live UP Blog state verified at publish: #69 confirmed **published** on schedule
+> (Tue Jun 23) — the `-18` log's "scheduled" status for it was correct, just
+> pre-publish-date; reconciled to Published here. #70 created (ID `mr9bysezhzyo2q07u`)
+> and confirmed **scheduled Tue Jul 7, 09:00 CT (-05:00)**, send_email true. Cleanly
+> honored the dining-table retirement — #70 moves to the summer kitchen; Lucas
+> appears only in a one-line recliner analogy. **Threads touched:** G (Lance recurs —
+> he needed to) and Jean (was stale since April). Arc 1 not moved.
+>
 > **SESSION NOTE (June 18, 2026):** Built on top of `-18` (June 5). One post added
 > this session (#69), an **Anchor** — the first Anchor since #66 and the first
 > affiliate-carrying post since **#53 (Mar 26)**. Live UP Blog state verified at
@@ -89,18 +100,21 @@
 | 66 | 2026-06-09 | Anchor | You Don't Need a Better Planner. You Need a Second Car. | Myth Buster | Priority Pyramid | Whole House | Published |
 | 67 | 2026-06-11 | Lighter | Motivation Is Weather. Build for the Other 361 Days. | Q&A | Anchor Ritual | None | Published |
 | 68 | 2026-06-18 | Lighter | What's Actually on My Dining Table Right Now | List with Personality | None | Dining Room | Published |
-| 69 | 2026-06-23 | Anchor | Four Posts Later, I Finally Fixed the Dining Table | Zone Transformation | Chaos Zone Containment | Dining Room | Scheduled |
+| 69 | 2026-06-23 | Anchor | Four Posts Later, I Finally Fixed the Dining Table | Zone Transformation | Chaos Zone Containment | Dining Room | Published |
+| 70 | 2026-07-07 | Anchor | Eleven Cups by Noon. Two Kids. One Summer Kitchen. | Zone Transformation | Chaos Zone Containment | Kitchen | Scheduled |
 
-**Total Posts:** 69 (68 published, 1 scheduled)
+**Total Posts:** 70 (69 published, 1 scheduled)
 
-> **Scheduling note:** As of this export, the only scheduled post is #69 (Tue Jun 23,
-> verified live in UP Blog). **Open slots: Thursday Jun 25 (Lighter) and Tuesday
-> Jun 30 (Anchor).** This session restored cadence balance — the Thursday side had
-> run ahead through June 5; an Anchor (#69) was the correct lead per Step 0.
-> Next session: either slot is open. If leading with an Anchor again, it should
-> carry products (now the default). If a Lighter, **Status Report** is the strongest
-> never-run candidate — but note Arc 1 was just touched in #69, so an immediate
-> Arc-1 Status Report risks over-featuring; Arc 6 (#66) is the cleaner check-in.
+> **Scheduling note:** As of this session, the only scheduled post is #70 (Tue Jul 7,
+> 09:00 CT, verified live in UP Blog; post ID `mr9bysezhzyo2q07u`). #69 has published.
+> The Jun 25 / Jun 30 / Jul 2 slots lapsed unfilled during the gap and were not
+> backfilled (resume forward, not backward). **Next open slots: Thursday Jul 9
+> (Lighter) and Tuesday Jul 14 (Anchor).** #70 was the second product-carrying Anchor
+> in a row (#69 → #70), so the revenue side is healthy; a **Lighter** is the natural
+> next lead to rebalance cadence. Strongest never-run Lighter format is **Status
+> Report**, and **Arc 6 (shared vehicle, last beat #66)** is the cleanest subject
+> (no over-feature risk). Do NOT lead the next Arc-1 beat off the table — that
+> material is retired.
 
 ---
 
@@ -109,11 +123,10 @@
 ✓ = at least one Anchor post exists for this combination. Multiple ✓ = repeat count.
 (Lighter posts do not populate this matrix.)
 
-> **Change this session:** #69 (Anchor, Zone Transformation, Chaos Zone Containment,
-> Dining Table) adds one ✓ to **Chaos Zone Containment × Dining** — bringing that
-> cell to ✓✓✓ (previously ✓✓ from #10, #61; now also #69). Note: #61 was logged as
-> Disaster Chronicle, #10 and #69 as Zone Transformation, but all three sit in the
-> CZC × Dining cell. **This cell is now saturated AND retired** (see retirement flag).
+> **Change this session:** #70 (Anchor, Zone Transformation, Chaos Zone Containment,
+> Kitchen) adds one ✓ to **Chaos Zone Containment × Kitchen**, bringing that cell from
+> ✓ to ✓✓. The angle is a fresh one — summer snack/pantry containment, not a repeat of
+> prior kitchen work. (Prior session: #69 saturated CZC × Dining at ✓✓✓ — now retired.)
 
 | Method | Kitchen | Dining | Living | Recliner | Joey | Gracie | Master | Bath | Work | Entry | Laundry | School | Closets | Garage | Car | Pantry | Linen | Storage | Kids Bath | Whole |
 |--------|---------|--------|--------|----------|------|--------|--------|------|------|-------|---------|--------|---------|--------|-----|--------|-------|---------|-----------|-------|
@@ -128,7 +141,7 @@
 | Category Conquest | ✓ | | ✓ | | | | | | | | | ✓ | | | | | ✓ | | ✓ | |
 | The Joy Test | | | | | | | ✓ | | | | | | ✓ | | | ✓ | | | | |
 | The Great Purge | | | | | | | | | | | | | | ✓ | | | | ✓ | | |
-| Chaos Zone Containment | ✓ | ✓✓✓ | ✓ | ✓ | | ✓ | ✓ | | | ✓ | ✓ | | | ✓ | ✓ | | | | | |
+| Chaos Zone Containment | ✓✓ | ✓✓✓ | ✓ | ✓ | | ✓ | ✓ | | | ✓ | ✓ | | | ✓ | ✓ | | | | | |
 | 27-Toss Challenge | | | ✓ | | ✓ | | ✓ | ✓ | | | | | | | | | | | | ✓ |
 | Strategic Folding | | | | | | ✓ | | | | | ✓ | | | | | | | | | |
 | The Right Order | | | ✓ | | | | | | | | | | | | | | | | | ✓ |
@@ -147,20 +160,24 @@
 |--------|-------|-------|
 | Disaster Chronicle | 17 | Largest format. No change this session. |
 | Method Tutorial | 14 | |
-| Zone Transformation | 14 | **+1 this session (#69).** |
+| Zone Transformation | 15 | **+1 this session (#70).** |
 | Quick Win | 8 | |
 | Myth Buster | 7 | |
 | Product Roundup | 4 | Still underused. |
 | System Breakdown | 3 | Still the most underused Anchor format. |
 
-**Total Anchor posts: 67** (one Anchor created this session: #69)
+**Total Anchor posts: 68** (one Anchor created this session: #70)
 
-> **Affiliate note:** #69 is the first affiliate-carrying Anchor since **#53 (Mar 26)**
-> — the ~12-week revenue gap is now closed. Two products embedded (Sterilite 27 Gal
-> Industrial Tote, ASIN B00KF5864C; Enjoy Organizer Portable Divided Caddy, ASIN
-> B081BDBHD2), both live with tag `untitledpub03-20`, honest pros/cons, disclaimer
-> present. Prices stated as approximate (~$25 / ~$22) — not pulled from a live price
-> feed, so verify if exact figures ever matter.
+> **Affiliate note:** #70 is the second affiliate-carrying Anchor in a row (#69 → #70),
+> keeping the revenue rhythm going. Two products embedded (Vtopmart Clear Plastic
+> Pantry & Fridge Bins 4-Pack, ASIN B097XYFC23; 1-Gallon Countertop Beverage Dispenser
+> with Spigot, ASIN B0CBFGJP4D), both live with tag `untitledpub03-20`, honest
+> pros/cons, disclaimer present. ASINs sourced/verified from live amazon.com listings.
+> Prices stated as approximate (~$28 / ~$22) — not pulled from a live price feed, so
+> verify if exact figures ever matter.
+>
+> Prior: #69 (Mar-gap closer) embedded Sterilite 27 Gal Industrial Tote (B00KF5864C)
+> and Enjoy Organizer Portable Divided Caddy (B081BDBHD2).
 
 ---
 
@@ -190,17 +207,20 @@ over-feature caution below — Arc 6 is the cleaner Status Report subject right 
 | # | Arc | Last Beat | Status |
 |---|-----|-----------|--------|
 | 1 | Lucas's Job Becoming Too Much | **#69 — real beat** | **Advanced.** #69 names the *structural cause* out loud for the first time (the church gave Lucas a job and no room to do it in; the table is where the overflow lands). Handled with affection, not blame. The post explicitly *defers* the bigger conversation ("a bigger conversation than a storage tote can hold... one we're going to have to have eventually"), leaving the late-night-conversation thread unplayed. **The table is now retired as this arc's setting — future movement must come from elsewhere.** |
-| 2 | Gracie Aging Out of Rocks-and-Dolls | None | Pre-arc; era in full force (doll-hospital-expansion gag in #69, correct register) |
+| 2 | Gracie Aging Out of Rocks-and-Dolls | None | Pre-arc; era in full force (administrator/"load-bearing crackers" register in #70; doll-hospital-expansion gag in #69) |
 | 3 | Emily Becoming a Grandmother | None | Prerequisite met (#65); arc can begin when a real moment arrives. Not touched this session. |
 | 4 | The Michelle Friendship | #58 | No movement. The design-help / "equation tilts the other way" beat remains pitched-but-unplayed (deferred June 5). Still the most valuable unplayed Michelle beat; high-care (Michelle must never become a comic foil). Note: this beat fights against carrying products, so it needs a non-affiliate revenue plan or a sibling Anchor to cover the slot's revenue expectation. |
 | 5 | Lucas Finding Out About the Blog | None | Pre-arc; light seed in #66. Not touched this session. NOTE: #69 opens by referencing #68 ("I listed them, publicly, on this blog") — this is a light meta touch but stays on the right side of the "don't wink at the camera" line; watch that Arc 5 doesn't accidentally start via table posts. |
 | 6 | The Shared-Vehicle Situation | #66 — first real beat | No movement this session. **Cleanest available Status Report subject** (enough background, no over-feature risk). |
-| 7 | The Joey ↔ Lucas Gentle Drift | #63 — indirect texture | Grazed in #69 (kids "helping Lucas coil cables at the church" — off-page, light). No beat. |
+| 7 | The Joey ↔ Lucas Gentle Drift | #63 — indirect texture | No touch in #70. Grazed in #69 (kids "helping Lucas coil cables at the church"). No beat. |
 
-**Movement this session:**
-- **Arc 1 advanced** (#69) — first real beat since #61. Structural cause named; conversation deferred. Update reflected above.
-- **Table retired as Arc 1's vehicle.** This is the key structural note for next session: Arc 1 is alive but the table/gear-spillover material is spent across #10/#40/#61/#68/#69. Move it via conversation, the church, or a decision.
-- No other arcs advanced.
+**Movement this session (#70):**
+- **No arcs advanced.** #70 is a system/zone post that touches threads, not arcs.
+- **Thread G (Lance) touched** — Lance recurs on-page (finds the yes-shelf, grazes with Joey). He needed to become recurring; this is a step toward that. Register still not formally locked, but the touch is light and consistent.
+- **Jean touched** (drop-off text; Faith and Hope come over) — Jean was stale since April; this refreshes her presence lightly.
+- **Arc 1 correctly NOT touched** — Lucas appears only in a one-line recliner analogy. Dining-table/gear material stays retired.
+
+**Prior session (#69):** Arc 1 advanced (first real beat since #61; structural cause named, conversation deferred); table retired as Arc 1's vehicle (material spent across #10/#40/#61/#68/#69 — move Arc 1 via conversation, the church, or a decision).
 
 ### Active Threads — Recent Touches
 
@@ -212,7 +232,7 @@ over-feature caution below — Arc 6 is the cleaner Status Report subject right 
 | D — Doug & Cathy (+ Sherry & Joe) | #65 | No appearance this session. Needed for Arc 3 groundwork. |
 | E — Lucas's Bio Dad | Never | Keep rare. |
 | F — Estranged Bio Mom | Never | Keep rare or never. |
-| G — Lance | #63 | No appearance this session. Still idle; needs to recur. Register decision still pending. |
+| G — Lance | **#70** | **Recurred this session** (finds the yes-shelf, grazes with Joey). No longer idle — but keep building him. Register decision still pending; the #70 touch was light enough not to lock it. |
 
 ---
 
@@ -220,13 +240,15 @@ over-feature caution below — Arc 6 is the cleaner Status Report subject right 
 
 | Character | Last Featured | Notes |
 |-----------|---------------|-------|
-| Lucas | **#69** — the homeless-at-work reframe; the gear, the multimeter, the wiring diagram, the 9:40 PM cable drop | Heavy, central, affectionate. Arc 1 beat carrier. Bible-consistent: trades background, leaned-on because he can lean on Emily, tired and behind not careless. |
-| Gracie | **#69** — "doll hospital expansion territory" land-grab, negotiated to one corner | Administrator/claimant register, brief, in-voice. |
-| Joey | #69 (off-page — coiling cables at church); named as chaos source #67 | Light, off-page; grazes Arc 7. |
+| Lucas | #69 — the homeless-at-work reframe (gear, multimeter, wiring diagram, 9:40 PM cable drop) | #70: one-line recliner analogy only (deliberate — table/gear retired). Bible-consistent. |
+| Gracie | **#70** — snack-shelf "administrator," decrees the fruit snacks "load-bearing" and claims their own bin | Administrator/claimant register, in-voice. Also #69. |
+| Joey | **#70** — grazes while building legos; "smart," delivered without looking up | Builder register, light and true. Also #69 (off-page). |
+| Lance | **#70** — recurs on-page; finds the yes-shelf, grazes with Joey | First real on-page recurrence; keep building. |
+| Faith / Hope | **#70** — dropped off by Jean; Hope + Gracie run a doll catastrophe upstairs | Cousin/trouble-pair register, brief. |
+| Jean | **#70** — texts to drop Faith & Hope for a few hours while she runs a job | **Refreshed after being stale since April.** Light touch; the safe-valve dynamic intact. |
 | Emily's Dad | #67 (also #66, #62) | No appearance this session. |
 | Emily's Mom | #67 | No appearance this session. |
 | Doug / Cathy / Sherry / Joe | #65 | No appearance. Arc 3 still waiting on Sherry/Doug groundwork. |
-| Jean | — | **No appearance since April — now notably stale. Strong candidate for a touch next session.** |
 | Michelle | #58 | No appearance. Arc 4 beat still on deck; high-care. |
 | Marie | #51 | No appearance; recalibration still pending. |
 | Lance | #63 | No appearance; idle. |
@@ -243,11 +265,37 @@ over-feature caution below — Arc 6 is the cleaner Status Report subject right 
 | 2026-05-28 | 1 | #64 (The House Was Fine...) — published during gap, classification inferred |
 | 2026-06-04 | 2 | Revival session. #65 (Field Notes — first ever). #66 (Myth Buster — Arc 6 first beat). |
 | 2026-06-05 | 2 | #67 (Q&A — first ever). #68 (List with Personality — first ever). Two never-run Lighter formats closed. No Anchor — Thursday side ran ahead. SUSMaster updated: Step 0 + Anchor affiliate default. |
-| **2026-06-18** | **1** | **#69 (Zone Transformation — Anchor) Tue Jun 23. First Anchor since #66; first affiliate-carrying post since #53 (closes ~12-wk revenue gap). Arc 1 advanced (structural cause named, conversation deferred). Cadence rebalanced per Step 0. DINING TABLE + LUCAS-GEAR MATERIAL RETIRED after this post. Live state verified at session start and end.** |
+| 2026-06-18 | 1 | #69 (Zone Transformation — Anchor) Tue Jun 23. First Anchor since #66; first affiliate-carrying post since #53 (closes ~12-wk revenue gap). Arc 1 advanced (structural cause named, conversation deferred). DINING TABLE + LUCAS-GEAR MATERIAL RETIRED after this post. |
+| **2026-07-06** | **1** | **#70 (Zone Transformation — Anchor) scheduled Tue Jul 7, 09:00 CT (ID `mr9bysezhzyo2q07u`). Blog's FIRST summer post; second affiliate-carrying Anchor in a row (revenue rhythm holding). Threads touched: G (Lance recurs) + Jean (refreshed). Arc 1 correctly untouched; table retirement honored. #69 reconciled Scheduled→Published. Live UP Blog state verified at publish.** |
 
 ---
 
 ## NOTES
+
+**July 6, 2026 — SESSION:**
+
+- **One Anchor created (#70), affiliate-carrying**, scheduled Tue Jul 7 09:00 CT
+  (ID `mr9bysezhzyo2q07u`, slug `eleven-cups-by-noon-two-kids-one-summer-kitchen`,
+  send_email true). Second product-carrying Anchor in a row — revenue rhythm holding.
+- **Blog's first summer post.** Fresh seasonal vein (kids home all day, kitchen as a
+  watering hole). Zone Transformation applying Chaos Zone Containment to the kitchen
+  snack/drink chaos: a yes-shelf, one named cup per kid, a counter drink station.
+- **Two products, real ASINs, verified via live amazon.com listings:** Vtopmart Clear
+  Plastic Pantry & Fridge Bins 4-Pack (B097XYFC23) and 1-Gallon Countertop Beverage
+  Dispenser with Spigot (B0CBFGJP4D), both tag `untitledpub03-20`. Disclaimer present,
+  honest cons on both, 2-product cap respected. Prices approximate (~$28 / ~$22).
+- **Threads:** Lance (G) recurred on-page for the first time in a while — progress on
+  the standing "make Lance recurring" note; register still not locked. Jean refreshed
+  after being stale since April. No arc beats.
+- **Table retirement honored** — Lucas appears only in a one-line recliner analogy.
+- **#69 reconciled:** published on schedule Jun 23 (was logged "Scheduled"); status
+  corrected to Published here. Total now 70 (69 published, 1 scheduled).
+- **Repo:** final markdown written to
+  `blogs/cleanenough/eleven-cups-by-noon-two-kids-one-summer-kitchen.md` (with
+  frontmatter). Committed locally; not pushed (Irene pushes from terminal).
+- **SEO note:** seo_discover/longtail intentionally NOT run (per dispatch). Metadata is
+  intent-matched long-tail, consistent with the documented finding that SEO-Scout
+  returns no useful data for this niche.
 
 **June 18, 2026 — SESSION:**
 
@@ -289,16 +337,18 @@ over-feature caution below — Arc 6 is the cleaner Status Report subject right 
 ## COVERAGE GAPS TO ADDRESS
 
 **Anchor slot:**
-- Tuesday Jun 30 is open. Product Roundup (4) and System Breakdown (3) remain the most
-  underused Anchor formats — and a Roundup/Zone Transformation keeps the revenue
-  rhythm going now that #69 reopened it.
-- **Do NOT return to the dining table or Lucas's gear** (retired this session).
+- Tuesday Jul 14 is the next open Anchor. Product Roundup (4) and System Breakdown (3)
+  remain the most underused Anchor formats. Two product Anchors have now run back to
+  back (#69, #70), so a Lighter is the more natural next lead — but if an Anchor leads,
+  Roundup/System Breakdown would add format variety.
+- **Do NOT return to the dining table or Lucas's gear** (retired).
 
 **Lighter slot:**
-- Thursday Jun 25 is open.
-- Status Report — never run. Strongest *format* candidate, BUT: Arc 1 was just touched
-  in #69, so an Arc-1 Status Report now would over-feature. **Arc 6 (shared vehicle,
-  last beat #66) is the cleaner Status Report subject.**
+- Thursday Jul 9 is the next open Lighter, and a Lighter is the natural next lead to
+  rebalance cadence after two Anchors.
+- Status Report — never run. Strongest *format* candidate. **Arc 6 (shared vehicle,
+  last beat #66) is the cleanest subject** (no over-feature risk; Arc 1 is off-limits
+  on the table and was last advanced in #69).
 - Letter — never run.
 - Photo Walk — never run; **blocked on real photos from Emily.**
 
@@ -318,8 +368,10 @@ over-feature caution below — Arc 6 is the cleaner Status Report subject right 
 - Living Room + 15-Minute Strike: 3 posts (#27, #54, #63)
 - Priority Pyramid + Whole House: 2 (#17, #66)
 - **Chaos Zone Containment × Dining Table: 3 posts (#10, #61, #69) — saturated AND retired**
+- Chaos Zone Containment × Kitchen: now ✓✓ (#70 added a summer snack/pantry angle) — not
+  saturated, but vary the angle if returning.
 
 ---
 
 *This log is the complete current history, maintained in place in the repo.*
-*Last updated: June 18, 2026*
+*Last updated: July 6, 2026*
